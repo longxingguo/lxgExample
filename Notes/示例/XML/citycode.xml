@@ -1,0 +1,2714 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATAPACKET>
+  <STATION areacode="北京市" code="54511">
+    <STATION areacode="北京市" code="54511">
+      <STATION areacode="朝阳区" code="54433"/>
+      <STATION areacode="丰台区" code="54514"/>
+      <STATION areacode="石景山" code="54513"/>
+      <STATION areacode="海淀区" code="54399"/>
+      <STATION areacode="门头沟" code="54505"/>
+      <STATION areacode="房山区" code="54596"/>
+      <STATION areacode="通州区" code="54431"/>
+      <STATION areacode="顺义区" code="54398"/>
+      <STATION areacode="昌平区" code="54499"/>
+      <STATION areacode="大兴区" code="54594"/>
+      <STATION areacode="怀柔区" code="54419"/>
+      <STATION areacode="平谷区" code="54424"/>
+      <STATION areacode="密云县" code="54416"/>
+      <STATION areacode="延庆县" code="54406"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="黑龙江" code="">
+    <STATION areacode="哈尔滨" code="50953">
+      <STATION areacode="呼兰" code="50956"/>
+      <STATION areacode="阿城" code="50958"/>
+      <STATION areacode="双城" code="50955"/>
+      <STATION areacode="尚志" code="50968"/>
+      <STATION areacode="五常" code="54080"/>
+      <STATION areacode="依兰" code="50877"/>
+      <STATION areacode="方正" code="50964"/>
+      <STATION areacode="宾县" code="50960"/>
+      <STATION areacode="巴彦" code="50867"/>
+      <STATION areacode="木兰" code="50962"/>
+      <STATION areacode="通河" code="50963"/>
+      <STATION areacode="延寿" code="50965"/>
+    </STATION>
+    <STATION areacode="齐齐哈尔" code="50745">
+      <STATION areacode="讷河" code="50646"/>
+      <STATION areacode="龙江" code="50739"/>
+      <STATION areacode="依安" code="50750"/>
+      <STATION areacode="泰来" code="50844"/>
+      <STATION areacode="甘南" code="50741"/>
+      <STATION areacode="富裕" code="50742"/>
+      <STATION areacode="克山" code="50658"/>
+      <STATION areacode="克东" code="50659"/>
+      <STATION areacode="拜泉" code="50755"/>
+    </STATION>
+    <STATION areacode="鸡西市" code="50978">
+      <STATION areacode="虎林市" code="50983"/>
+      <STATION areacode="密山市" code="50985"/>
+      <STATION areacode="鸡东县" code="50987"/>
+    </STATION>
+    <STATION areacode="鹤岗市" code="50775">
+      <STATION areacode="萝北县" code="50776"/>
+      <STATION areacode="绥滨县" code="50787"/>
+    </STATION>
+    <STATION areacode="双鸭山" code="50884">
+      <STATION areacode="宝山区" code="58362"/>
+      <STATION areacode="集贤县" code="50880"/>
+      <STATION areacode="宝清县" code="50888"/>
+      <STATION areacode="饶河县" code="50892"/>
+    </STATION>
+    <STATION areacode="大庆市" code="50950">
+      <STATION areacode="肇州县" code="50950"/>
+      <STATION areacode="肇源县" code="50954"/>
+      <STATION areacode="林甸县" code="50749"/>
+      <STATION areacode="杜尔伯特" code="50842"/>
+    </STATION>
+    <STATION areacode="伊春市" code="50774">
+      <STATION areacode="五营" code="50772"/>
+      <STATION areacode="乌伊岭" code="50674"/>
+      <STATION areacode="铁力市" code="50862"/>
+      <STATION areacode="嘉荫县" code="50673"/>
+    </STATION>
+    <STATION areacode="佳木斯" code="50873">
+      <STATION areacode="同江市" code="50778"/>
+      <STATION areacode="富锦市" code="50788"/>
+      <STATION areacode="桦南县" code="50879"/>
+      <STATION areacode="桦川县" code="50878"/>
+      <STATION areacode="汤原县" code="50871"/>
+      <STATION areacode="抚远县" code="50779"/>
+    </STATION>
+    <STATION areacode="七台河" code="50973">
+      <STATION areacode="勃利县" code="50973"/>
+    </STATION>
+    <STATION areacode="牡丹江" code="54094">
+      <STATION areacode="绥芬河" code="54096"/>
+      <STATION areacode="海林市" code="54092"/>
+      <STATION areacode="宁安市" code="54098"/>
+      <STATION areacode="穆棱市" code="54093"/>
+      <STATION areacode="东宁县" code="54099"/>
+      <STATION areacode="林口县" code="50979"/>
+    </STATION>
+    <STATION areacode="黑河市" code="50468">
+      <STATION areacode="北安市" code="50656"/>
+      <STATION areacode="五大连池" code="50655"/>
+      <STATION areacode="嫩江县" code="50557"/>
+      <STATION areacode="逊克县" code="50566"/>
+      <STATION areacode="孙吴县" code="50564"/>
+    </STATION>
+    <STATION areacode="绥化市" code="50853">
+      <STATION areacode="安达市" code="50854"/>
+      <STATION areacode="肇东市" code="50858"/>
+      <STATION areacode="海伦市" code="50756"/>
+      <STATION areacode="望奎县" code="50852"/>
+      <STATION areacode="兰西县" code="50859"/>
+      <STATION areacode="青冈县" code="50851"/>
+      <STATION areacode="庆安县" code="50861"/>
+      <STATION areacode="明水县" code="50758"/>
+      <STATION areacode="绥棱县" code="50767"/>
+    </STATION>
+    <STATION areacode="大兴安岭" code="50442">
+      <STATION areacode="呼玛县" code="50353"/>
+      <STATION areacode="塔河县" code="50246"/>
+      <STATION areacode="漠河县" code="50136"/>
+      <STATION areacode="加格达奇" code="50442"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="吉林省" code="">
+    <STATION areacode="长春市" code="54161">
+      <STATION areacode="朝阳区" code="54433"/>
+      <STATION areacode="德惠市" code="54065"/>
+      <STATION areacode="九台市" code="54069"/>
+      <STATION areacode="榆树市" code="54072"/>
+      <STATION areacode="农安县" code="54064"/>
+    </STATION>
+    <STATION areacode="吉林市" code="54172">
+      <STATION areacode="蛟河市" code="54181"/>
+      <STATION areacode="桦甸市" code="54273"/>
+      <STATION areacode="舒兰市" code="54076"/>
+      <STATION areacode="永吉县" code="54171"/>
+    </STATION>
+    <STATION areacode="四平市" code="54157">
+      <STATION areacode="公主岭" code="54156"/>
+      <STATION areacode="双辽市" code="54142"/>
+      <STATION areacode="梨树县" code="54154"/>
+      <STATION areacode="伊通县" code="54164"/>
+    </STATION>
+    <STATION areacode="辽源市" code="54260">
+      <STATION areacode="东丰县" code="54261"/>
+    </STATION>
+    <STATION areacode="通化市" code="54363">
+      <STATION areacode="梅河口" code="54266"/>
+      <STATION areacode="集安市" code="54377"/>
+      <STATION areacode="通化县" code="54362"/>
+      <STATION areacode="辉南县" code="54274"/>
+      <STATION areacode="柳河县" code="54267"/>
+    </STATION>
+    <STATION areacode="白山市" code="54374">
+      <STATION areacode="临江市" code="54374"/>
+      <STATION areacode="靖宇县" code="54276"/>
+      <STATION areacode="长白县" code="54386"/>
+    </STATION>
+    <STATION areacode="松原市" code="50946">
+      <STATION areacode="长岭县" code="54049"/>
+      <STATION areacode="乾安县" code="50948"/>
+      <STATION areacode="扶余县" code="54063"/>
+      <STATION areacode="前郭尔罗斯县" code="50949"/>
+    </STATION>
+    <STATION areacode="白城市" code="50936">
+      <STATION areacode="洮南区" code="50939"/>
+      <STATION areacode="大安市" code="50945"/>
+      <STATION areacode="镇赉县" code="50940"/>
+      <STATION areacode="通榆县" code="54041"/>
+    </STATION>
+    <STATION areacode="延边州" code="54292">
+      <STATION areacode="延吉市" code="54292"/>
+      <STATION areacode="图们市" code="54293"/>
+      <STATION areacode="敦化市" code="54186"/>
+      <STATION areacode="珲春市" code="54291"/>
+      <STATION areacode="龙井市" code="54290"/>
+      <STATION areacode="和龙市" code="54286"/>
+      <STATION areacode="汪清县" code="54195"/>
+      <STATION areacode="安图县" code="54187"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="辽宁省" code="">
+    <STATION areacode="沈阳市" code="54342">
+      <STATION areacode="苏家屯" code="54340"/>
+      <STATION areacode="于洪区" code="54247"/>
+      <STATION areacode="新民市" code="54333"/>
+      <STATION areacode="辽中县" code="54332"/>
+      <STATION areacode="康平县" code="54244"/>
+      <STATION areacode="法库县" code="54245"/>
+    </STATION>
+    <STATION areacode="大连市" code="54662">
+      <STATION areacode="沙河口" code="53781"/>
+      <STATION areacode="旅顺口" code="54660"/>
+      <STATION areacode="瓦房店" code="54563"/>
+      <STATION areacode="普兰店" code="54569"/>
+      <STATION areacode="庄河市" code="54584"/>
+      <STATION areacode="长海县" code="54579"/>
+    </STATION>
+    <STATION areacode="鞍山市" code="54339">
+      <STATION areacode="海城市" code="54472"/>
+      <STATION areacode="台安县" code="54336"/>
+      <STATION areacode="岫岩县" code="54486"/>
+    </STATION>
+    <STATION areacode="抚顺市" code="54353">
+      <STATION areacode="新宾县" code="54353"/>
+      <STATION areacode="清原县" code="54259"/>
+    </STATION>
+    <STATION areacode="本溪市" code="54346">
+      <STATION areacode="本溪县" code="54349"/>
+      <STATION areacode="桓仁县" code="54365"/>
+    </STATION>
+    <STATION areacode="丹东市" code="54497">
+      <STATION areacode="凤城市" code="54494"/>
+      <STATION areacode="宽甸县" code="54493"/>
+    </STATION>
+    <STATION areacode="锦州市" code="54337">
+      <STATION areacode="北镇市" code="54331"/>
+      <STATION areacode="黑山县" code="54335"/>
+      <STATION areacode="义县" code="54334"/>
+    </STATION>
+    <STATION areacode="营口市" code="54471">
+      <STATION areacode="盖州市" code="54474"/>
+      <STATION areacode="大石桥" code="54475"/>
+    </STATION>
+    <STATION areacode="阜新市" code="54237">
+      <STATION areacode="清河门" code="54706"/>
+      <STATION areacode="阜新县" code="54237"/>
+      <STATION areacode="彰武县" code="54236"/>
+    </STATION>
+    <STATION areacode="辽阳市" code="54347">
+      <STATION areacode="灯塔市" code="54348"/>
+      <STATION areacode="辽阳县" code="54342"/>
+    </STATION>
+    <STATION areacode="盘锦市" code="54338">
+      <STATION areacode="兴隆台" code="54425"/>
+      <STATION areacode="大洼县" code="54470"/>
+    </STATION>
+    <STATION areacode="铁岭市" code="54249">
+      <STATION areacode="开原市" code="54254"/>
+      <STATION areacode="铁岭县" code="54249"/>
+      <STATION areacode="西丰县" code="54252"/>
+      <STATION areacode="昌图县" code="54243"/>
+    </STATION>
+    <STATION areacode="朝阳市" code="54324">
+      <STATION areacode="北票区" code="54323"/>
+      <STATION areacode="凌源市" code="54327"/>
+      <STATION areacode="朝阳县" code="54324"/>
+      <STATION areacode="建平县" code="54326"/>
+    </STATION>
+    <STATION areacode="葫芦岛" code="54455">
+      <STATION areacode="兴城市" code="54455"/>
+      <STATION areacode="绥中县" code="54454"/>
+      <STATION areacode="建昌县" code="54452"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="天津市" code="54517">
+    <STATION areacode="天津市" code="54517">
+      <STATION areacode="塘沽区" code="54623"/>
+      <STATION areacode="汉沽区" code="54530"/>
+      <STATION areacode="东丽区" code="54526"/>
+      <STATION areacode="西青区" code="54527"/>
+      <STATION areacode="北辰区" code="54528"/>
+      <STATION areacode="武清区" code="54523"/>
+      <STATION areacode="宝坻区" code="54525"/>
+      <STATION areacode="宁河县" code="54529"/>
+      <STATION areacode="静海县" code="54619"/>
+      <STATION areacode="蓟县" code="54428"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="内蒙古" code="">
+    <STATION areacode="呼和浩特" code="53463">
+      <STATION areacode="土默特左旗" code="53464"/>
+      <STATION areacode="托克托" code="53467"/>
+      <STATION areacode="和林格尔" code="53469"/>
+      <STATION areacode="清水河" code="53562"/>
+      <STATION areacode="武川县" code="53368"/>
+    </STATION>
+    <STATION areacode="包头市" code="53446">
+      <STATION areacode="白云矿" code="53343"/>
+      <STATION areacode="土默特右旗" code="53455"/>
+      <STATION areacode="固阳县" code="53357"/>
+      <STATION areacode="达尔罕茂明安联合旗" code="53352"/>
+    </STATION>
+    <STATION areacode="乌海市" code="53512">
+    </STATION>
+    <STATION areacode="赤峰市" code="54218">
+      <STATION areacode="阿鲁科尔沁旗" code="54122"/>
+      <STATION areacode="巴林左旗" code="54027"/>
+      <STATION areacode="巴林右旗" code="54113"/>
+      <STATION areacode="克什克腾旗" code="54117"/>
+      <STATION areacode="翁牛特旗" code="54213"/>
+      <STATION areacode="喀喇沁旗" code="54313"/>
+      <STATION areacode="宁城市" code="54320"/>
+      <STATION areacode="敖汉旗" code="54225"/>
+    </STATION>
+    <STATION areacode="通辽市" code="54135">
+      <STATION areacode="科尔沁" code="54231"/>
+      <STATION areacode="开鲁县" code="54134"/>
+      <STATION areacode="库伦旗" code="54234"/>
+      <STATION areacode="奈曼旗" code="54223"/>
+      <STATION areacode="扎鲁特旗" code="54026"/>
+    </STATION>
+    <STATION areacode="鄂尔多斯市" code="53543">
+      <STATION areacode="东胜区" code="53543"/>
+      <STATION areacode="达拉特旗" code="53457"/>
+      <STATION areacode="准格尔旗" code="53553"/>
+      <STATION areacode="鄂托克前旗" code="53730"/>
+      <STATION areacode="鄂托克旗" code="53529"/>
+      <STATION areacode="杭锦旗" code="53533"/>
+      <STATION areacode="乌审旗" code="53644"/>
+      <STATION areacode="伊金霍洛旗" code="53545"/>
+    </STATION>
+    <STATION areacode="呼伦贝尔" code="50527">
+      <STATION areacode="海拉尔" code="50527"/>
+      <STATION areacode="满洲里" code="50514"/>
+      <STATION areacode="牙克石" code="50526"/>
+      <STATION areacode="扎兰屯" code="50639"/>
+      <STATION areacode="额尔古纳" code="50425"/>
+      <STATION areacode="根河" code="50431"/>
+      <STATION areacode="阿荣旗" code="50647"/>
+      <STATION areacode="鄂伦春自治旗" code="50445"/>
+      <STATION areacode="鄂温克族自治旗" code="50525"/>
+      <STATION areacode="陈巴尔虎旗" code="50524"/>
+      <STATION areacode="新巴尔虎左旗" code="50618"/>
+      <STATION areacode="新巴尔虎右旗" code="50603"/>
+    </STATION>
+    <STATION areacode="巴彦淖尔" code="50867">
+      <STATION areacode="临河区" code="53513"/>
+      <STATION areacode="五原县" code="53337"/>
+      <STATION areacode="磴口县" code="53419"/>
+      <STATION areacode="乌拉特前旗" code="53433"/>
+      <STATION areacode="乌拉特中旗" code="53336"/>
+      <STATION areacode="乌拉特后旗" code="53324"/>
+      <STATION areacode="杭锦后旗" code="53420"/>
+    </STATION>
+    <STATION areacode="乌兰察布" code="52833">
+      <STATION areacode="集宁区" code="53480"/>
+      <STATION areacode="丰镇市" code="53484"/>
+      <STATION areacode="卓资县" code="53472"/>
+      <STATION areacode="化德县" code="53391"/>
+      <STATION areacode="商都县" code="53385"/>
+      <STATION areacode="兴和县" code="53483"/>
+      <STATION areacode="凉城县" code="53475"/>
+      <STATION areacode="察哈尔右翼前旗" code="53481"/>
+      <STATION areacode="察哈尔右翼中旗" code="53378"/>
+      <STATION areacode="察哈尔右翼后旗" code="53384"/>
+      <STATION areacode="四子王旗" code="53362"/>
+    </STATION>
+    <STATION areacode="兴安盟" code="57955">
+      <STATION areacode="乌兰浩特" code="50838"/>
+      <STATION areacode="科尔沁右翼前旗" code="54231"/>
+      <STATION areacode="科尔沁右翼中旗" code="50937"/>
+      <STATION areacode="扎赉特旗" code="50833"/>
+      <STATION areacode="突泉县" code="50934"/>
+    </STATION>
+    <STATION areacode="锡林郭勒盟" code="53505">
+      <STATION areacode="二连浩特" code="53068"/>
+      <STATION areacode="锡林浩特" code="54102"/>
+      <STATION areacode="阿巴嘎旗" code="53192"/>
+      <STATION areacode="苏尼特左旗" code="53195"/>
+      <STATION areacode="苏尼特右旗" code="53272"/>
+      <STATION areacode="东乌珠穆沁旗" code="50915"/>
+      <STATION areacode="西乌珠穆沁旗" code="54012"/>
+      <STATION areacode="太仆寺旗" code="54305"/>
+      <STATION areacode="镶黄旗" code="53289"/>
+      <STATION areacode="正镶白旗" code="54204"/>
+      <STATION areacode="正蓝旗" code="54205"/>
+      <STATION areacode="多伦" code="54208"/>
+    </STATION>
+    <STATION areacode="阿拉善盟" code="51232">
+      <STATION areacode="阿拉善左旗" code="53602"/>
+      <STATION areacode="阿拉善右旗" code="52576"/>
+      <STATION areacode="额济纳旗" code="52267"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="新疆" code="">
+    <STATION areacode="乌鲁木齐" code="51463">
+    </STATION>
+    <STATION areacode="克拉玛依" code="51243">
+      <STATION areacode="独山子" code="57922"/>
+    </STATION>
+    <STATION areacode="吐鲁番地区" code="51573">
+      <STATION areacode="吐鲁番市" code="51573"/>
+      <STATION areacode="鄯善县" code="51581"/>
+      <STATION areacode="托克逊县" code="51571"/>
+    </STATION>
+    <STATION areacode="哈密地区" code="52203">
+      <STATION areacode="哈密市" code="52203"/>
+      <STATION areacode="伊吾县" code="52118"/>
+      <STATION areacode="巴里坤哈萨克自治县" code="52101"/>
+    </STATION>
+    <STATION areacode="和田地区" code="51828">
+      <STATION areacode="和田县" code="51828"/>
+      <STATION areacode="墨玉县" code="51827"/>
+      <STATION areacode="皮山县" code="51818"/>
+      <STATION areacode="洛浦县" code="51829"/>
+      <STATION areacode="策勒县" code="51826"/>
+      <STATION areacode="于田县" code="51931"/>
+      <STATION areacode="民丰县" code="51839"/>
+    </STATION>
+    <STATION areacode="阿克苏地区" code="51708">
+      <STATION areacode="阿克苏市" code="51628"/>
+      <STATION areacode="温宿县" code="51629"/>
+      <STATION areacode="库车县" code="51644"/>
+      <STATION areacode="沙雅县" code="51639"/>
+      <STATION areacode="新和县" code="51636"/>
+      <STATION areacode="拜城县" code="51633"/>
+      <STATION areacode="乌什县" code="51627"/>
+      <STATION areacode="阿瓦提县" code="51722"/>
+      <STATION areacode="柯坪县" code="51720"/>
+    </STATION>
+    <STATION areacode="喀什地区" code="51709">
+      <STATION areacode="喀什市" code="51709"/>
+      <STATION areacode="英吉沙县" code="51802"/>
+      <STATION areacode="泽普" code="51815"/>
+      <STATION areacode="莎车" code="51811"/>
+      <STATION areacode="叶城" code="51814"/>
+      <STATION areacode="麦盖提" code="51810"/>
+      <STATION areacode="伽师" code="51707"/>
+      <STATION areacode="巴楚" code="51716"/>
+      <STATION areacode="塔什库尔干塔吉克自治县" code="51804"/>
+    </STATION>
+    <STATION areacode="克孜勒苏柯尔克孜自治州" code="51704">
+      <STATION areacode="阿图什市" code="51704"/>
+      <STATION areacode="阿克陶县" code="51708"/>
+      <STATION areacode="阿合奇县" code="51711"/>
+      <STATION areacode="乌恰县" code="51705"/>
+    </STATION>
+    <STATION areacode="巴音郭楞蒙古自治州" code="51542">
+      <STATION areacode="库尔勒市" code="51656"/>
+      <STATION areacode="轮台县" code="51642"/>
+      <STATION areacode="尉犁县" code="51655"/>
+      <STATION areacode="若羌县" code="51777"/>
+      <STATION areacode="且末县" code="51855"/>
+      <STATION areacode="焉耆回族自治县" code="51567"/>
+      <STATION areacode="和静县" code="51559"/>
+      <STATION areacode="和硕县" code="51568"/>
+    </STATION>
+    <STATION areacode="昌吉回族自治州" code="51368">
+      <STATION areacode="昌吉市" code="51368"/>
+      <STATION areacode="阜康市" code="51377"/>
+      <STATION areacode="呼图壁县" code="51367"/>
+      <STATION areacode="玛纳斯县" code="51359"/>
+      <STATION areacode="奇台县" code="51379"/>
+      <STATION areacode="吉木萨尔县" code="51059"/>
+      <STATION areacode="木垒哈萨克自治县" code="51482"/>
+    </STATION>
+    <STATION areacode="博尔塔拉蒙古自治州" code="51238">
+      <STATION areacode="博乐市" code="51238"/>
+      <STATION areacode="精河县" code="51334"/>
+      <STATION areacode="温泉县" code="51330"/>
+    </STATION>
+    <STATION areacode="伊犁哈萨克自治州" code="51431">
+      <STATION areacode="伊宁市" code="51431"/>
+      <STATION areacode="伊宁县" code="51434"/>
+      <STATION areacode="霍城县" code="51329"/>
+      <STATION areacode="巩留县" code="51435"/>
+      <STATION areacode="新源县" code="51436"/>
+      <STATION areacode="昭苏县" code="51437"/>
+      <STATION areacode="特克斯县" code="51438"/>
+      <STATION areacode="尼勒克县" code="51433"/>
+      <STATION areacode="察布查尔锡伯自治县" code="51430"/>
+    </STATION>
+    <STATION areacode="塔城地区" code="51133">
+      <STATION areacode="阿勒泰市" code="51076"/>
+      <STATION areacode="布尔津县" code="51060"/>
+      <STATION areacode="富蕴县" code="51087"/>
+      <STATION areacode="福海县" code="51068"/>
+      <STATION areacode="哈巴河县" code="51053"/>
+      <STATION areacode="青河县" code="51186"/>
+      <STATION areacode="吉木乃县" code="51059"/>
+    </STATION>
+    <STATION areacode="阿拉尔市" code="51232"/>
+  </STATION>
+  <STATION areacode="宁夏" code="">
+    <STATION areacode="银川市" code="53614">
+      <STATION areacode="永宁县" code="53618"/>
+      <STATION areacode="贺兰县" code="53610"/>
+    </STATION>
+    <STATION areacode="石嘴山市" code="53519">
+      <STATION areacode="惠农区" code="53519"/>
+      <STATION areacode="平罗县" code="53611"/>
+    </STATION>
+    <STATION areacode="吴忠市" code="53612">
+      <STATION areacode="盐池县" code="53723"/>
+      <STATION areacode="同心县" code="53810"/>
+      <STATION areacode="青铜峡市" code="53617"/>
+    </STATION>
+    <STATION areacode="固原市" code="53817">
+      <STATION areacode="西吉县" code="53903"/>
+      <STATION areacode="隆德县" code="53914"/>
+      <STATION areacode="泾源县" code="53916"/>
+    </STATION>
+    <STATION areacode="中卫市" code="53704">
+      <STATION areacode="中宁县" code="53705"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="青海省" code="">
+    <STATION areacode="西宁市" code="52866">
+      <STATION areacode="湟中县" code="52869"/>
+      <STATION areacode="湟源县" code="52855"/>
+      <STATION areacode="大通县" code="52862"/>
+    </STATION>
+    <STATION areacode="海东地区" code="52875">
+      <STATION areacode="平安县" code="52875"/>
+      <STATION areacode="乐都县" code="52874"/>
+      <STATION areacode="民和县" code="52876"/>
+      <STATION areacode="互助县" code="52863"/>
+      <STATION areacode="化隆县" code="52877"/>
+      <STATION areacode="循化县" code="52972"/>
+    </STATION>
+    <STATION areacode="海北州" code="52853">
+      <STATION areacode="海晏县" code="52853"/>
+      <STATION areacode="祁连县" code="52657"/>
+      <STATION areacode="刚察县" code="52754"/>
+      <STATION areacode="门源县" code="52765"/>
+    </STATION>
+    <STATION areacode="黄南州" code="52963">
+      <STATION areacode="尖扎县" code="52963"/>
+      <STATION areacode="泽库县" code="52968"/>
+      <STATION areacode="河南蒙古族自治县" code="53732"/>
+    </STATION>
+    <STATION areacode="海南州" code="52856">
+      <STATION areacode="共和县" code="52856"/>
+      <STATION areacode="同德县" code="52957"/>
+      <STATION areacode="贵德县" code="52868"/>
+      <STATION areacode="兴海县" code="52943"/>
+      <STATION areacode="贵南县" code="52955"/>
+    </STATION>
+    <STATION areacode="果洛州" code="56043">
+      <STATION areacode="玛沁县" code="56043"/>
+      <STATION areacode="班玛县" code="56151"/>
+      <STATION areacode="甘德县" code="56045"/>
+      <STATION areacode="达日县" code="56046"/>
+      <STATION areacode="久治县" code="56067"/>
+      <STATION areacode="玛多县" code="56033"/>
+    </STATION>
+    <STATION areacode="玉树州" code="56029">
+      <STATION areacode="玉树县" code="56029"/>
+      <STATION areacode="杂多县" code="56018"/>
+      <STATION areacode="治多县" code="56016"/>
+      <STATION areacode="囊谦县" code="56125"/>
+      <STATION areacode="曲麻莱县" code="56021"/>
+    </STATION>
+    <STATION areacode="海西州" code="52737">
+      <STATION areacode="德令哈" code="52737"/>
+      <STATION areacode="格尔木" code="52818"/>
+      <STATION areacode="乌兰县" code="52833"/>
+      <STATION areacode="都兰县" code="52836"/>
+      <STATION areacode="天峻县" code="52745"/>
+      <STATION areacode="冷湖行委" code="52602"/>
+      <STATION areacode="大柴旦行委" code="52713"/>
+      <STATION areacode="茫崖行委" code="51886"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="甘肃省" code="">
+    <STATION areacode="兰州市" code="52889">
+      <STATION areacode="永登县" code="52885"/>
+      <STATION areacode="榆中县" code="52983"/>
+    </STATION>
+    <STATION areacode="金昌市" code="52675">
+      <STATION areacode="永昌县" code="52674"/>
+    </STATION>
+    <STATION areacode="白银市" code="52896">
+      <STATION areacode="靖远县" code="52895"/>
+      <STATION areacode="会宁县" code="52993"/>
+      <STATION areacode="景泰县" code="52797"/>
+    </STATION>
+    <STATION areacode="天水市" code="57006">
+      <STATION areacode="清水县" code="57011"/>
+      <STATION areacode="秦安县" code="57002"/>
+      <STATION areacode="甘谷县" code="57001"/>
+      <STATION areacode="武山县" code="57004"/>
+      <STATION areacode="张家川县" code="57012"/>
+    </STATION>
+    <STATION areacode="武威市" code="52679">
+      <STATION areacode="民勤县" code="52681"/>
+      <STATION areacode="古浪县" code="52784"/>
+    </STATION>
+    <STATION areacode="张掖市" code="52652">
+      <STATION areacode="民乐县" code="52656"/>
+      <STATION areacode="临泽县" code="52557"/>
+      <STATION areacode="高台县" code="52546"/>
+      <STATION areacode="山丹县" code="52661"/>
+      <STATION areacode="肃南裕县" code="52643"/>
+    </STATION>
+    <STATION areacode="平凉市" code="53915">
+      <STATION areacode="泾川县" code="53926"/>
+      <STATION areacode="灵台县" code="53924"/>
+      <STATION areacode="崇信县" code="53928"/>
+      <STATION areacode="华亭县" code="53927"/>
+      <STATION areacode="庄浪县" code="53917"/>
+      <STATION areacode="静宁县" code="53906"/>
+    </STATION>
+    <STATION areacode="酒泉市" code="52533">
+      <STATION areacode="玉门市" code="52436"/>
+      <STATION areacode="敦煌市" code="52418"/>
+      <STATION areacode="金塔县" code="52447"/>
+      <STATION areacode="肃北县" code="52515"/>
+      <STATION areacode="阿克塞县" code="51708"/>
+    </STATION>
+    <STATION areacode="庆阳市" code="53829">
+      <STATION areacode="环县" code="53821"/>
+      <STATION areacode="华池县" code="53930"/>
+      <STATION areacode="合水县" code="53934"/>
+      <STATION areacode="正宁县" code="53935"/>
+      <STATION areacode="宁县" code="53937"/>
+      <STATION areacode="镇原县" code="53925"/>
+    </STATION>
+    <STATION areacode="定西市" code="52995">
+      <STATION areacode="通渭县" code="53908"/>
+      <STATION areacode="陇西县" code="56092"/>
+      <STATION areacode="渭源县" code="52998"/>
+      <STATION areacode="临洮县" code="52986"/>
+      <STATION areacode="漳县" code="56091"/>
+      <STATION areacode="岷县" code="56093"/>
+    </STATION>
+    <STATION areacode="陇南市" code="56096">
+      <STATION areacode="成县" code="57102"/>
+      <STATION areacode="文县" code="56192"/>
+      <STATION areacode="宕昌县" code="56095"/>
+      <STATION areacode="康县" code="57105"/>
+      <STATION areacode="西和县" code="57008"/>
+      <STATION areacode="礼县" code="57007"/>
+      <STATION areacode="徽县" code="57110"/>
+      <STATION areacode="两当县" code="57111"/>
+    </STATION>
+    <STATION areacode="临夏州" code="52984">
+      <STATION areacode="临夏市" code="52984"/>
+      <STATION areacode="临夏县" code="52984"/>
+      <STATION areacode="康乐县" code="52988"/>
+      <STATION areacode="永靖县" code="52980"/>
+      <STATION areacode="广河县" code="52982"/>
+      <STATION areacode="和政县" code="52985"/>
+      <STATION areacode="东乡族自治县" code="52981"/>
+    </STATION>
+    <STATION areacode="甘南州" code="50741">
+      <STATION areacode="合作市" code="56080"/>
+      <STATION areacode="临潭县" code="56081"/>
+      <STATION areacode="卓尼县" code="56082"/>
+      <STATION areacode="舟曲线" code="56094"/>
+      <STATION areacode="迭部县" code="56084"/>
+      <STATION areacode="玛曲县" code="56074"/>
+      <STATION areacode="碌曲县" code="56071"/>
+      <STATION areacode="夏河县" code="52978"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="陕西省" code="">
+    <STATION areacode="西安市" code="57036">
+      <STATION areacode="临潼区" code="57044"/>
+      <STATION areacode="蓝田县" code="57047"/>
+      <STATION areacode="周至县" code="57032"/>
+      <STATION areacode="户县" code="57132"/>
+      <STATION areacode="高陵县" code="57040"/>
+    </STATION>
+    <STATION areacode="铜川市" code="53947">
+      <STATION areacode="宜君区" code="53945"/>
+    </STATION>
+    <STATION areacode="宝鸡市" code="57016">
+      <STATION areacode="凤翔县" code="57025"/>
+      <STATION areacode="岐山县" code="57024"/>
+      <STATION areacode="扶风县" code="57026"/>
+      <STATION areacode="眉县" code="57027"/>
+      <STATION areacode="陇县" code="57003"/>
+      <STATION areacode="千阳县" code="57021"/>
+      <STATION areacode="麟游县" code="57022"/>
+      <STATION areacode="凤县" code="57113"/>
+      <STATION areacode="太白县" code="57028"/>
+    </STATION>
+    <STATION areacode="咸阳市" code="57048">
+      <STATION areacode="兴平市" code="57038"/>
+      <STATION areacode="三原县" code="57041"/>
+      <STATION areacode="泾阳县" code="57033"/>
+      <STATION areacode="乾县" code="57035"/>
+      <STATION areacode="礼泉县" code="57029"/>
+      <STATION areacode="永寿县" code="57030"/>
+      <STATION areacode="彬县" code="57023"/>
+      <STATION areacode="长武县" code="53929"/>
+      <STATION areacode="旬邑县" code="53938"/>
+      <STATION areacode="淳化县" code="57031"/>
+      <STATION areacode="武功县" code="57034"/>
+    </STATION>
+    <STATION areacode="渭南市" code="57045">
+      <STATION areacode="韩城市" code="53955"/>
+      <STATION areacode="华阴市" code="57055"/>
+      <STATION areacode="华县" code="57049"/>
+      <STATION areacode="潼关县" code="57054"/>
+      <STATION areacode="大荔县" code="57043"/>
+      <STATION areacode="合阳县" code="53950"/>
+      <STATION areacode="澄城县" code="53949"/>
+      <STATION areacode="蒲城县" code="53948"/>
+      <STATION areacode="白水县" code="53941"/>
+      <STATION areacode="富平县" code="57042"/>
+    </STATION>
+    <STATION areacode="延安市" code="53845">
+      <STATION areacode="延长县" code="53854"/>
+      <STATION areacode="延川县" code="53850"/>
+      <STATION areacode="子长县" code="53748"/>
+      <STATION areacode="安塞县" code="53841"/>
+      <STATION areacode="志丹县" code="53832"/>
+      <STATION areacode="甘泉县" code="53848"/>
+      <STATION areacode="富县" code="53931"/>
+      <STATION areacode="洛川县" code="53942"/>
+      <STATION areacode="宜川县" code="53857"/>
+      <STATION areacode="黄龙县" code="53946"/>
+      <STATION areacode="黄陵县" code="53944"/>
+    </STATION>
+    <STATION areacode="汉中市" code="57127">
+      <STATION areacode="南郑县" code="57213"/>
+      <STATION areacode="城固县" code="57128"/>
+      <STATION areacode="洋县" code="57126"/>
+      <STATION areacode="西乡县" code="57129"/>
+      <STATION areacode="勉县" code="57119"/>
+      <STATION areacode="宁强县" code="57211"/>
+      <STATION areacode="略阳县" code="57106"/>
+      <STATION areacode="镇巴县" code="57238"/>
+      <STATION areacode="留坝县" code="57124"/>
+      <STATION areacode="佛坪县" code="57134"/>
+    </STATION>
+    <STATION areacode="榆林市" code="53646">
+      <STATION areacode="神木县" code="53651"/>
+      <STATION areacode="府谷县" code="53567"/>
+      <STATION areacode="横山县" code="53740"/>
+      <STATION areacode="靖边县" code="53735"/>
+      <STATION areacode="定边县" code="53725"/>
+      <STATION areacode="绥德县" code="53754"/>
+      <STATION areacode="米脂县" code="53750"/>
+      <STATION areacode="佳县" code="53658"/>
+      <STATION areacode="吴堡县" code="53756"/>
+      <STATION areacode="清涧县" code="53757"/>
+      <STATION areacode="子洲县" code="53751"/>
+    </STATION>
+    <STATION areacode="安康市" code="57245">
+      <STATION areacode="汉阴县" code="57233"/>
+      <STATION areacode="石泉县" code="57232"/>
+      <STATION areacode="宁陕县" code="57137"/>
+      <STATION areacode="紫阳县" code="57231"/>
+      <STATION areacode="岚皋县" code="57247"/>
+      <STATION areacode="平利县" code="57248"/>
+      <STATION areacode="镇坪县" code="57343"/>
+      <STATION areacode="旬阳县" code="57242"/>
+      <STATION areacode="白河县" code="57254"/>
+    </STATION>
+    <STATION areacode="商洛市" code="57143">
+      <STATION areacode="洛南县" code="57057"/>
+      <STATION areacode="丹凤县" code="57153"/>
+      <STATION areacode="商南县" code="57154"/>
+      <STATION areacode="山阳县" code="57155"/>
+      <STATION areacode="镇安县" code="57144"/>
+      <STATION areacode="柞水县" code="57140"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="西藏" code="">
+    <STATION areacode="拉萨市" code="55591">
+      <STATION areacode="当雄县" code="55493"/>
+      <STATION areacode="尼木县" code="55585"/>
+      <STATION areacode="墨竹工卡县" code="55593"/>
+    </STATION>
+    <STATION areacode="昌都地区" code="56137">
+      <STATION areacode="昌都县" code="56137"/>
+      <STATION areacode="类乌齐县" code="56128"/>
+      <STATION areacode="丁青县" code="56116"/>
+      <STATION areacode="八宿县" code="56228"/>
+      <STATION areacode="左贡县" code="56331"/>
+      <STATION areacode="芒康县" code="56342"/>
+      <STATION areacode="洛隆县" code="56223"/>
+    </STATION>
+    <STATION areacode="山南地区" code="55598">
+      <STATION areacode="乃东县" code="55598"/>
+      <STATION areacode="贡嘎县" code="55589"/>
+      <STATION areacode="琼结县" code="55597"/>
+      <STATION areacode="加查县" code="56307"/>
+      <STATION areacode="隆子县" code="55696"/>
+      <STATION areacode="错那县" code="55690"/>
+      <STATION areacode="浪卡子县" code="55681"/>
+    </STATION>
+    <STATION areacode="日喀则地区" code="55578">
+      <STATION areacode="日喀则市" code="55578"/>
+      <STATION areacode="南木林县" code="55572"/>
+      <STATION areacode="江孜县" code="55680"/>
+      <STATION areacode="定日县" code="55664"/>
+      <STATION areacode="拉孜县" code="55569"/>
+      <STATION areacode="聂拉木县" code="55655"/>
+    </STATION>
+    <STATION areacode="那曲地区" code="55299">
+      <STATION areacode="那曲县" code="55299"/>
+      <STATION areacode="嘉黎县" code="56202"/>
+      <STATION areacode="比如县" code="56109"/>
+      <STATION areacode="安多县" code="55294"/>
+      <STATION areacode="申扎县" code="55472"/>
+      <STATION areacode="索县" code="56106"/>
+      <STATION areacode="班戈县" code="55279"/>
+    </STATION>    
+    <STATION areacode="林芝地区" code="56312">
+      <STATION areacode="林芝县" code="56312"/>
+      <STATION areacode="米林县" code="56317"/>
+      <STATION areacode="波密县" code="56227"/>
+      <STATION areacode="察隅县" code="56434"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="四川省" code="">
+    <STATION areacode="成都市" code="56294">
+      <STATION areacode="龙泉驿" code="56286"/>
+      <STATION areacode="新都" code="56290"/>
+      <STATION areacode="温江区" code="56187"/>
+      <STATION areacode="都江堰" code="56188"/>
+      <STATION areacode="彭州" code="56189"/>
+      <STATION areacode="邛崃" code="56284"/>
+      <STATION areacode="崇州市" code="56181"/>
+      <STATION areacode="金堂" code="56296"/>
+      <STATION areacode="双流" code="56288"/>
+      <STATION areacode="郫县" code="56272"/>
+      <STATION areacode="大邑" code="56285"/>
+      <STATION areacode="新津县" code="56276"/>
+    </STATION>
+    <STATION areacode="自贡市" code="56396">
+      <STATION areacode="荣县" code="56394"/>
+      <STATION areacode="富顺县" code="56399"/>
+    </STATION>
+    <STATION areacode="攀枝花市" code="56666">
+      <STATION areacode="米易县" code="56670"/>
+      <STATION areacode="盐边县" code="56665"/>
+    </STATION>
+    <STATION areacode="泸州市" code="57602">
+      <STATION areacode="泸县" code="57508"/>
+      <STATION areacode="合江县" code="57603"/>
+      <STATION areacode="叙永县" code="57608"/>
+      <STATION areacode="古蔺县" code="57605"/>
+    </STATION>
+    <STATION areacode="德阳市" code="56198">
+      <STATION areacode="广汉市" code="56291"/>
+      <STATION areacode="什邡市" code="56197"/>
+      <STATION areacode="绵竹市" code="56186"/>
+      <STATION areacode="中江县" code="56199"/>
+    </STATION>
+    <STATION areacode="绵阳市" code="56196">
+      <STATION areacode="江油市" code="56195"/>
+      <STATION areacode="三台县" code="57307"/>
+      <STATION areacode="盐亭县" code="57308"/>
+      <STATION areacode="安县" code="56190"/>
+      <STATION areacode="梓潼县" code="57304"/>
+      <STATION areacode="平武县" code="56193"/>
+      <STATION areacode="北川县" code="56194"/>
+    </STATION>
+    <STATION areacode="广元市" code="57206">
+      <STATION areacode="旺苍县" code="57217"/>
+      <STATION areacode="青川县" code="57204"/>
+      <STATION areacode="剑阁县" code="57208"/>
+      <STATION areacode="苍溪县" code="57303"/>
+    </STATION>
+    <STATION areacode="遂宁市" code="57405">
+      <STATION areacode="蓬溪县" code="57402"/>
+      <STATION areacode="射洪县" code="57401"/>
+    </STATION>
+    <STATION areacode="内江市" code="57504">
+      <STATION areacode="威远县" code="56395"/>
+      <STATION areacode="资中县" code="56393"/>
+      <STATION areacode="隆昌县" code="57507"/>
+    </STATION>
+    <STATION areacode="乐山市" code="56386">
+      <STATION areacode="峨眉山" code="56384"/>
+      <STATION areacode="犍为县" code="56389"/>
+      <STATION areacode="井研县" code="56390"/>
+      <STATION areacode="夹江县" code="56382"/>
+      <STATION areacode="沐川县" code="56490"/>
+      <STATION areacode="峨边县" code="56387"/>
+      <STATION areacode="马边县" code="56480"/>
+    </STATION>
+    <STATION areacode="南充市" code="57411">
+      <STATION areacode="阆中市" code="57306"/>
+      <STATION areacode="南部县" code="57314"/>
+      <STATION areacode="营山县" code="57318"/>
+      <STATION areacode="蓬安县" code="57317"/>
+      <STATION areacode="仪陇县" code="57315"/>
+      <STATION areacode="西充县" code="57309"/>
+    </STATION>
+    <STATION areacode="宜宾市" code="56492">
+      <STATION areacode="宜宾县" code="56491"/>
+      <STATION areacode="南溪县" code="56493"/>
+      <STATION areacode="江安县" code="57600"/>
+      <STATION areacode="长宁县" code="56593"/>
+      <STATION areacode="高县" code="56592"/>
+      <STATION areacode="珙县" code="56499"/>
+      <STATION areacode="筠连县" code="56498"/>
+      <STATION areacode="兴文县" code="56496"/>
+      <STATION areacode="屏山县" code="56494"/>
+    </STATION>
+    <STATION areacode="广安市" code="57415">
+      <STATION areacode="岳池县" code="57414"/>
+      <STATION areacode="武胜县" code="57417"/>
+      <STATION areacode="邻水县" code="57416"/>
+    </STATION>
+    <STATION areacode="达州市" code="57237">
+      <STATION areacode="万源市" code="57237"/>
+      <STATION areacode="宣汉县" code="57326"/>
+      <STATION areacode="开江县" code="57329"/>
+      <STATION areacode="大竹县" code="57420"/>
+      <STATION areacode="渠县" code="57413"/>
+    </STATION>
+    <STATION areacode="眉山市" code="56391">
+      <STATION areacode="仁寿县" code="56297"/>
+      <STATION areacode="彭山县" code="56289"/>
+      <STATION areacode="洪雅县" code="56380"/>
+      <STATION areacode="丹棱县" code="56381"/>
+      <STATION areacode="青神县" code="56383"/>
+    </STATION>
+    <STATION areacode="雅安市" code="56287">
+      <STATION areacode="名山县" code="56280"/>
+      <STATION areacode="荥经县" code="56373"/>
+      <STATION areacode="汉源县" code="56376"/>
+      <STATION areacode="石棉县" code="56378"/>
+      <STATION areacode="天全县" code="56278"/>
+      <STATION areacode="芦山县" code="56279"/>
+      <STATION areacode="宝兴县" code="56273"/>
+    </STATION>
+    <STATION areacode="巴中市" code="57313">
+      <STATION areacode="通江县" code="57320"/>
+      <STATION areacode="南江县" code="57216"/>
+      <STATION areacode="平昌县" code="57324"/>
+    </STATION>
+    <STATION areacode="资阳市" code="56298">
+      <STATION areacode="简阳市" code="56295"/>
+      <STATION areacode="安岳县" code="57408"/>
+      <STATION areacode="乐至县" code="57407"/>
+    </STATION>
+    <STATION areacode="阿坝州" code="56171">
+      <STATION areacode="马尔康" code="56172"/>
+      <STATION areacode="汶川县" code="56183"/>
+      <STATION areacode="理县" code="56184"/>
+      <STATION areacode="茂县" code="56180"/>
+      <STATION areacode="松潘县" code="56182"/>
+      <STATION areacode="金川县" code="56168"/>
+      <STATION areacode="小金县" code="56178"/>
+      <STATION areacode="黑水县" code="56185"/>
+      <STATION areacode="壤塘县" code="56164"/>
+      <STATION areacode="阿坝县" code="56171"/>
+      <STATION areacode="若尔盖县" code="56079"/>
+      <STATION areacode="红原县" code="56173"/>
+    </STATION>
+    <STATION areacode="甘孜州" code="56146">
+      <STATION areacode="康定县" code="56374"/>
+      <STATION areacode="泸定县" code="56371"/>
+      <STATION areacode="丹巴" code="56263"/>
+      <STATION areacode="九龙" code="56462"/>
+      <STATION areacode="雅江" code="56267"/>
+      <STATION areacode="道孚" code="56167"/>
+      <STATION areacode="炉霍" code="56158"/>
+      <STATION areacode="甘孜" code="56146"/>
+      <STATION areacode="新龙" code="56251"/>
+      <STATION areacode="德格" code="56144"/>
+      <STATION areacode="白玉" code="56147"/>
+      <STATION areacode="石渠" code="56038"/>
+      <STATION areacode="色达" code="56152"/>
+      <STATION areacode="理塘" code="56257"/>
+      <STATION areacode="巴塘" code="56247"/>
+      <STATION areacode="乡城" code="56443"/>
+      <STATION areacode="稻城" code="56357"/>
+      <STATION areacode="得荣" code="56441"/>
+    </STATION>
+    <STATION areacode="凉山州" code="56571">
+      <STATION areacode="西昌市" code="56571"/>
+      <STATION areacode="盐源县" code="56565"/>
+      <STATION areacode="德昌县" code="56569"/>
+      <STATION areacode="会理县" code="56671"/>
+      <STATION areacode="会东" code="56675"/>
+      <STATION areacode="宁南" code="56578"/>
+      <STATION areacode="普格" code="56575"/>
+      <STATION areacode="金阳" code="56584"/>
+      <STATION areacode="昭觉" code="56479"/>
+      <STATION areacode="喜德" code="56478"/>
+      <STATION areacode="冕宁" code="56474"/>
+      <STATION areacode="越西" code="56475"/>
+      <STATION areacode="甘洛" code="56473"/>
+      <STATION areacode="美姑" code="56487"/>
+      <STATION areacode="雷波" code="56485"/>
+      <STATION areacode="木里县" code="56459"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="重庆市" code="57516">
+    <STATION areacode="重庆市" code="57432">
+      <STATION areacode="涪陵区" code="57522"/>
+      <STATION areacode="黔江区" code="57536"/>
+      <STATION areacode="南川区" code="57519"/>
+      <STATION areacode="綦江县" code="57612"/>
+      <STATION areacode="潼南县" code="57409"/>
+      <STATION areacode="铜梁县" code="57510"/>
+      <STATION areacode="大足县" code="57502"/>
+      <STATION areacode="荣昌县" code="57505"/>
+      <STATION areacode="璧山县" code="57514"/>
+      <STATION areacode="垫江县" code="57425"/>
+      <STATION areacode="武隆县" code="57525"/>
+      <STATION areacode="丰都县" code="57523"/>
+      <STATION areacode="城口县" code="57333"/>
+      <STATION areacode="梁平县" code="57426"/>
+      <STATION areacode="开县" code="57338"/>
+      <STATION areacode="巫溪县" code="57345"/>
+      <STATION areacode="巫山县" code="57349"/>
+      <STATION areacode="奉节县" code="57348"/>
+      <STATION areacode="云阳县" code="57339"/>
+      <STATION areacode="忠县" code="57437"/>
+      <STATION areacode="石柱县" code="57438"/>
+      <STATION areacode="彭水县" code="57537"/>
+      <STATION areacode="酉阳县" code="57633"/>
+      <STATION areacode="秀山县" code="57635"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="贵州省" code="">
+    <STATION areacode="贵阳市" code="57816">
+      <STATION areacode="白云区" code="57911"/>
+      <STATION areacode="花溪区" code="57914"/>
+      <STATION areacode="乌当区" code="57915"/>
+      <STATION areacode="清镇市" code="57813"/>
+      <STATION areacode="开阳县" code="57719"/>
+      <STATION areacode="息烽县" code="57718"/>
+      <STATION areacode="修文县" code="57811"/>
+    </STATION>
+    <STATION areacode="六盘水" code="56693">
+      <STATION areacode="水城县" code="56693"/>
+      <STATION areacode="盘县" code="56793"/>
+    </STATION>
+    <STATION areacode="遵义市" code="57713">
+      <STATION areacode="赤水市" code="57609"/>
+      <STATION areacode="仁怀市" code="57710"/>
+      <STATION areacode="遵义县" code="57717"/>
+      <STATION areacode="桐梓县" code="57606"/>
+      <STATION areacode="绥阳县" code="57720"/>
+      <STATION areacode="正安县" code="57625"/>
+      <STATION areacode="凤冈县" code="57723"/>
+      <STATION areacode="湄潭县" code="57722"/>
+      <STATION areacode="余庆县" code="57729"/>
+      <STATION areacode="习水县" code="57614"/>
+      <STATION areacode="道真县" code="57623"/>
+      <STATION areacode="务川县" code="57634"/>
+    </STATION>
+    <STATION areacode="安顺市" code="57806">
+      <STATION areacode="平坝县" code="57814"/>
+      <STATION areacode="普定县" code="57808"/>
+      <STATION areacode="镇宁县" code="57809"/>
+      <STATION areacode="关岭县" code="57903"/>
+      <STATION areacode="紫云县" code="57910"/>
+    </STATION>
+    <STATION areacode="铜仁地区" code="57741">
+      <STATION areacode="铜仁市" code="57741"/>
+      <STATION areacode="江口县" code="57736"/>
+      <STATION areacode="石阡县" code="57734"/>
+      <STATION areacode="思南县" code="57731"/>
+      <STATION areacode="德江县" code="57637"/>
+      <STATION areacode="玉屏县" code="57739"/>
+      <STATION areacode="印江县" code="57732"/>
+      <STATION areacode="沿河县" code="57636"/>
+      <STATION areacode="松桃县" code="57647"/>
+      <STATION areacode="万山特区" code="57742"/>
+    </STATION>
+    <STATION areacode="毕节地区" code="57707">
+      <STATION areacode="毕节市" code="57707"/>
+      <STATION areacode="大方县" code="57708"/>
+      <STATION areacode="黔西县" code="57803"/>
+      <STATION areacode="金沙县" code="57714"/>
+      <STATION areacode="织金县" code="57805"/>
+      <STATION areacode="纳雍县" code="57800"/>
+      <STATION areacode="赫章县" code="56598"/>
+      <STATION areacode="威宁县" code="56691"/>
+    </STATION>
+    <STATION areacode="黔西南州" code="57803">
+      <STATION areacode="兴义市" code="57907"/>
+      <STATION areacode="兴仁县" code="57902"/>
+      <STATION areacode="普安县" code="56792"/>
+      <STATION areacode="晴隆县" code="57900"/>
+      <STATION areacode="贞丰县" code="57905"/>
+      <STATION areacode="望谟县" code="57906"/>
+      <STATION areacode="册亨县" code="57909"/>
+      <STATION areacode="安龙县" code="57908"/>
+    </STATION>
+    <STATION areacode="黔东南州" code="57825">
+      <STATION areacode="凯里市" code="57825"/>
+      <STATION areacode="黄平县" code="57822"/>
+      <STATION areacode="施秉县" code="57737"/>
+      <STATION areacode="镇远县" code="57738"/>
+      <STATION areacode="岑巩县" code="57735"/>
+      <STATION areacode="天柱县" code="57840"/>
+      <STATION areacode="锦屏县" code="57844"/>
+      <STATION areacode="剑河县" code="57835"/>
+      <STATION areacode="台江县" code="57834"/>
+      <STATION areacode="黎平县" code="57839"/>
+      <STATION areacode="榕江县" code="57932"/>
+      <STATION areacode="从江县" code="57936"/>
+      <STATION areacode="雷山县" code="57837"/>
+      <STATION areacode="麻江县" code="57828"/>
+      <STATION areacode="丹寨县" code="57829"/>
+      <STATION areacode="三穗县" code="57832"/>
+    </STATION>
+    <STATION areacode="黔南州" code="57827">
+      <STATION areacode="都匀市" code="57827"/>
+      <STATION areacode="福泉市" code="57821"/>
+      <STATION areacode="荔波县" code="57926"/>
+      <STATION areacode="贵定县" code="57824"/>
+      <STATION areacode="瓮安县" code="57728"/>
+      <STATION areacode="独山县" code="57922"/>
+      <STATION areacode="平塘县" code="57921"/>
+      <STATION areacode="罗甸县" code="57916"/>
+      <STATION areacode="长顺县" code="57818"/>
+      <STATION areacode="龙里县" code="57913"/>
+      <STATION areacode="惠水县" code="57912"/>
+      <STATION areacode="三都县" code="57923"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="云南省" code="">
+    <STATION areacode="昆明市" code="56778">
+      <STATION areacode="东川区" code="56688"/>
+      <STATION areacode="安宁市" code="56863"/>
+      <STATION areacode="呈贡县" code="56882"/>
+      <STATION areacode="晋宁县" code="56871"/>
+      <STATION areacode="富民县" code="56772"/>
+      <STATION areacode="宜良县" code="56880"/>
+      <STATION areacode="嵩明县" code="56785"/>
+      <STATION areacode="禄劝县" code="56775"/>
+      <STATION areacode="寻甸县" code="56781"/>
+    </STATION>
+    <STATION areacode="曲靖市" code="56783">
+      <STATION areacode="宣威市" code="56697"/>
+      <STATION areacode="马龙县" code="56782"/>
+      <STATION areacode="陆良县" code="56788"/>
+      <STATION areacode="师宗县" code="56883"/>
+      <STATION areacode="罗平县" code="56891"/>
+      <STATION areacode="富源县" code="56790"/>
+      <STATION areacode="会泽县" code="56684"/>
+      <STATION areacode="沾益县" code="56786"/>
+    </STATION>
+    <STATION areacode="玉溪市" code="56875">
+      <STATION areacode="江川县" code="56876"/>
+      <STATION areacode="澄江县" code="56873"/>
+      <STATION areacode="通海县" code="56878"/>
+      <STATION areacode="华宁县" code="56879"/>
+      <STATION areacode="易门县" code="56870"/>
+      <STATION areacode="峨山县" code="56898"/>
+      <STATION areacode="新平县" code="56869"/>
+      <STATION areacode="元江县" code="56966"/>
+    </STATION>
+    <STATION areacode="保山市" code="56748">
+      <STATION areacode="施甸县" code="56842"/>
+      <STATION areacode="腾冲县" code="56739"/>
+      <STATION areacode="龙陵县" code="56841"/>
+      <STATION areacode="昌宁县" code="56843"/>
+    </STATION>
+    <STATION areacode="昭通市" code="56586">
+      <STATION areacode="鲁甸县" code="56585"/>
+      <STATION areacode="巧家县" code="56673"/>
+      <STATION areacode="盐津县" code="56497"/>
+      <STATION areacode="大关县" code="56582"/>
+      <STATION areacode="永善县" code="56489"/>
+      <STATION areacode="绥江县" code="56483"/>
+      <STATION areacode="镇雄县" code="56595"/>
+      <STATION areacode="彝良县" code="56594"/>
+      <STATION areacode="威信县" code="56596"/>
+    </STATION>
+    <STATION areacode="丽江市" code="56651">
+      <STATION areacode="永胜县" code="56652"/>
+      <STATION areacode="华坪县" code="56664"/>
+      <STATION areacode="宁蒗县" code="56567"/>
+    </STATION>
+    <STATION areacode="普洱市" code="56961">
+      <STATION areacode="墨江县" code="56962"/>
+      <STATION areacode="景东县" code="56856"/>
+      <STATION areacode="景谷县" code="56952"/>
+      <STATION areacode="江城县" code="56977"/>
+      <STATION areacode="孟连县" code="56949"/>
+      <STATION areacode="澜沧县" code="56954"/>
+      <STATION areacode="西盟县" code="56948"/>
+    </STATION>
+    <STATION areacode="临沧市" code="56951">
+      <STATION areacode="云县" code="56854"/>
+      <STATION areacode="永德县" code="56849"/>
+      <STATION areacode="镇康县" code="56839"/>
+      <STATION areacode="双江县" code="56950"/>
+      <STATION areacode="耿马县" code="56946"/>
+      <STATION areacode="沧源县" code="56944"/>
+    </STATION>
+    <STATION areacode="文山州" code="56994">
+      <STATION areacode="砚山县" code="56991"/>
+      <STATION areacode="西畴县" code="56992"/>
+      <STATION areacode="麻栗坡" code="56996"/>
+      <STATION areacode="马关县" code="56995"/>
+      <STATION areacode="丘北县" code="56889"/>
+      <STATION areacode="广南县" code="59007"/>
+      <STATION areacode="富宁县" code="59205"/>
+    </STATION>
+    <STATION areacode="红河州" code="56984">
+      <STATION areacode="蒙自县" code="56985"/>
+      <STATION areacode="个旧市" code="56984"/>
+      <STATION areacode="开远市" code="56982"/>
+      <STATION areacode="绿春县" code="56978"/>
+      <STATION areacode="建水县" code="56973"/>
+      <STATION areacode="石屏县" code="56970"/>
+      <STATION areacode="弥勒县" code="56885"/>
+      <STATION areacode="泸西县" code="56886"/>
+      <STATION areacode="元阳县" code="56976"/>
+      <STATION areacode="红河县" code="56975"/>
+      <STATION areacode="金平县" code="56987"/>
+      <STATION areacode="河口县" code="56989"/>
+      <STATION areacode="屏边县" code="56986"/>
+    </STATION>
+    <STATION areacode="西双版纳" code="56957">
+      <STATION areacode="景洪市" code="56959"/>
+      <STATION areacode="勐海县" code="56958"/>
+      <STATION areacode="勐腊县" code="56969"/>
+    </STATION>
+    <STATION areacode="楚雄州" code="56768">
+      <STATION areacode="楚雄市" code="56768"/>
+      <STATION areacode="双柏县" code="56862"/>
+      <STATION areacode="牟定县" code="56766"/>
+      <STATION areacode="南华县" code="56767"/>
+      <STATION areacode="姚安县" code="56764"/>
+      <STATION areacode="大姚县" code="56761"/>
+      <STATION areacode="永仁县" code="56669"/>
+      <STATION areacode="元谋县" code="56763"/>
+      <STATION areacode="武定县" code="56774"/>
+      <STATION areacode="禄丰县" code="56777"/>
+    </STATION>
+    <STATION areacode="大理州" code="56751">
+      <STATION areacode="大理市" code="56751"/>
+      <STATION areacode="祥云县" code="56756"/>
+      <STATION areacode="宾川县" code="56752"/>
+      <STATION areacode="永平县" code="56746"/>
+      <STATION areacode="云龙县" code="56742"/>
+      <STATION areacode="洱源县" code="56649"/>
+      <STATION areacode="剑川县" code="56646"/>
+      <STATION areacode="鹤庆县" code="56654"/>
+      <STATION areacode="漾濞县" code="56745"/>
+      <STATION areacode="南涧县" code="56851"/>
+      <STATION areacode="巍山县" code="56757"/>
+    </STATION>
+    <STATION areacode="德宏州" code="56844">
+      <STATION areacode="潞西市" code="56844"/>
+      <STATION areacode="瑞丽市" code="56838"/>
+      <STATION areacode="梁河县" code="56840"/>
+      <STATION areacode="盈江县" code="56836"/>
+      <STATION areacode="陇川县" code="56835"/>
+    </STATION>
+    <STATION areacode="怒江州" code="56643">
+      <STATION areacode="泸水县" code="56741"/>
+      <STATION areacode="福贡县" code="56641"/>
+      <STATION areacode="贡山县" code="56533"/>
+      <STATION areacode="兰坪县" code="56645"/>
+    </STATION>
+    <STATION areacode="迪庆州" code="56444">
+      <STATION areacode="德钦县" code="56444"/>
+      <STATION areacode="维西县" code="56548"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="山西省" code="">
+    <STATION areacode="太原市" code="53772">
+      <STATION areacode="清徐县" code="53774"/>
+      <STATION areacode="阳曲县" code="53678"/>
+      <STATION areacode="娄烦县" code="53669"/>
+      <STATION areacode="古交市" code="53763"/>
+    </STATION>
+    <STATION areacode="大同市" code="53487">
+      <STATION areacode="阳高县" code="53486"/>
+      <STATION areacode="天镇县" code="53490"/>
+      <STATION areacode="广灵县" code="53590"/>
+      <STATION areacode="灵丘县" code="53594"/>
+      <STATION areacode="浑源县" code="53582"/>
+      <STATION areacode="左云县" code="53573"/>
+      <STATION areacode="大同县" code="53488"/>
+    </STATION>
+    <STATION areacode="阳泉市" code="53782">
+      <STATION areacode="平定县" code="53687"/>
+      <STATION areacode="盂县" code="53685"/>
+    </STATION>
+    <STATION areacode="长治市" code="53882">
+      <STATION areacode="长治县" code="53882"/>
+      <STATION areacode="襄垣县" code="53884"/>
+      <STATION areacode="屯留县" code="53879"/>
+      <STATION areacode="平顺县" code="53888"/>
+      <STATION areacode="黎城县" code="53878"/>
+      <STATION areacode="壶关县" code="53885"/>
+      <STATION areacode="长子县" code="53873"/>
+      <STATION areacode="武乡县" code="53871"/>
+      <STATION areacode="沁县" code="53872"/>
+      <STATION areacode="沁源县" code="53875"/>
+      <STATION areacode="潞城市" code="53880"/>
+    </STATION>
+    <STATION areacode="晋城市" code="53976">
+      <STATION areacode="沁水县" code="53970"/>
+      <STATION areacode="阳城县" code="53975"/>
+      <STATION areacode="陵川县" code="53981"/>
+      <STATION areacode="高平市" code="53973"/>
+    </STATION>
+    <STATION areacode="朔州市" code="53578">
+      <STATION areacode="平鲁区" code="53574"/>
+      <STATION areacode="山阴县" code="53576"/>
+      <STATION areacode="应县" code="53584"/>
+      <STATION areacode="右玉县" code="53478"/>
+      <STATION areacode="怀仁县" code="53580"/>
+    </STATION>
+    <STATION areacode="晋中市" code="53776">
+      <STATION areacode="榆次区" code="53776"/>
+      <STATION areacode="榆社县" code="53787"/>
+      <STATION areacode="左权县" code="53786"/>
+      <STATION areacode="和顺县" code="53788"/>
+      <STATION areacode="昔阳县" code="53783"/>
+      <STATION areacode="寿阳县" code="53780"/>
+      <STATION areacode="太谷县" code="53775"/>
+      <STATION areacode="祁县" code="53770"/>
+      <STATION areacode="平遥县" code="53778"/>
+      <STATION areacode="灵石县" code="53862"/>
+      <STATION areacode="介休市" code="53863"/>
+    </STATION>
+    <STATION areacode="运城市" code="53959">
+      <STATION areacode="临猗县" code="53958"/>
+      <STATION areacode="万荣县" code="53956"/>
+      <STATION areacode="闻喜县" code="53967"/>
+      <STATION areacode="稷山县" code="53954"/>
+      <STATION areacode="新绛县" code="53964"/>
+      <STATION areacode="绛县" code="53965"/>
+      <STATION areacode="垣曲县" code="53968"/>
+      <STATION areacode="夏县" code="57060"/>
+      <STATION areacode="平陆县" code="57061"/>
+      <STATION areacode="芮城县" code="57053"/>
+      <STATION areacode="永济市" code="57052"/>
+      <STATION areacode="河津市" code="53957"/>
+    </STATION>
+    <STATION areacode="忻州市" code="53674">
+      <STATION areacode="定襄县" code="53676"/>
+      <STATION areacode="五台县" code="53681"/>
+      <STATION areacode="代县" code="53579"/>
+      <STATION areacode="繁峙县" code="53585"/>
+      <STATION areacode="宁武县" code="53577"/>
+      <STATION areacode="静乐县" code="53666"/>
+      <STATION areacode="神池县" code="53575"/>
+      <STATION areacode="五寨县" code="53663"/>
+      <STATION areacode="岢岚县" code="53662"/>
+      <STATION areacode="河曲县" code="53564"/>
+      <STATION areacode="保德县" code="53660"/>
+      <STATION areacode="偏关县" code="53565"/>
+      <STATION areacode="原平市" code="53673"/>
+    </STATION>
+    <STATION areacode="临汾市" code="53868">
+      <STATION areacode="曲沃县" code="53961"/>
+      <STATION areacode="翼城县" code="53962"/>
+      <STATION areacode="洪洞县" code="53866"/>
+      <STATION areacode="古县" code="53874"/>
+      <STATION areacode="安泽县" code="53877"/>
+      <STATION areacode="浮山县" code="53966"/>
+      <STATION areacode="吉县" code="53859"/>
+      <STATION areacode="乡宁县" code="53953"/>
+      <STATION areacode="大宁县" code="53856"/>
+      <STATION areacode="隰县" code="53853"/>
+      <STATION areacode="永和县" code="53852"/>
+      <STATION areacode="蒲县" code="53864"/>
+      <STATION areacode="汾西县" code="53865"/>
+      <STATION areacode="霍州市" code="53869"/>
+    </STATION>
+    <STATION areacode="吕梁市" code="53771">
+      <STATION areacode="文水县" code="53771"/>
+      <STATION areacode="交城县" code="53777"/>
+      <STATION areacode="兴县" code="53664"/>
+      <STATION areacode="临县" code="53659"/>
+      <STATION areacode="柳林县" code="53753"/>
+      <STATION areacode="石楼县" code="53759"/>
+      <STATION areacode="岚县" code="53665"/>
+      <STATION areacode="方山县" code="53760"/>
+      <STATION areacode="中阳县" code="53767"/>
+      <STATION areacode="交口县" code="53860"/>
+      <STATION areacode="孝义市" code="53768"/>
+      <STATION areacode="汾阳市" code="53769"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="河北省" code="">
+    <STATION areacode="石家庄" code="53698">
+      <STATION areacode="辛集市" code="54701"/>
+      <STATION areacode="藁城市" code="53697"/>
+      <STATION areacode="晋州市" code="53689"/>
+      <STATION areacode="新乐市" code="53695"/>
+      <STATION areacode="井陉县" code="53693"/>
+      <STATION areacode="正定县" code="53691"/>
+      <STATION areacode="栾城县" code="53789"/>
+      <STATION areacode="行唐县" code="53688"/>
+      <STATION areacode="灵寿县" code="53680"/>
+      <STATION areacode="高邑县" code="53790"/>
+      <STATION areacode="深泽县" code="54621"/>
+      <STATION areacode="赞皇县" code="53795"/>
+      <STATION areacode="无极县" code="53699"/>
+      <STATION areacode="平山县" code="53694"/>
+      <STATION areacode="元氏县" code="53791"/>
+      <STATION areacode="赵县" code="53784"/>
+    </STATION>
+    <STATION areacode="唐山市" code="54534">
+      <STATION areacode="路南区" code="56881"/>
+      <STATION areacode="丰南区" code="54533"/>
+      <STATION areacode="丰润区" code="54532"/>
+      <STATION areacode="遵化市" code="54429"/>
+      <STATION areacode="迁安市" code="54439"/>
+      <STATION areacode="滦县" code="54531"/>
+      <STATION areacode="滦南县" code="54437"/>
+      <STATION areacode="乐亭县" code="54539"/>
+      <STATION areacode="迁西县" code="54434"/>
+      <STATION areacode="玉田县" code="54522"/>
+      <STATION areacode="唐海县" code="54535"/>
+    </STATION>
+    <STATION areacode="秦皇岛" code="54449">
+      <STATION areacode="昌黎县" code="54540"/>
+      <STATION areacode="抚宁县" code="54541"/>
+      <STATION areacode="卢龙县" code="54438"/>
+      <STATION areacode="青龙县" code="54436"/>
+    </STATION>
+    <STATION areacode="邯郸市" code="53892">
+      <STATION areacode="武安市" code="53890"/>
+      <STATION areacode="邯郸县" code="53892"/>
+      <STATION areacode="临漳县" code="53773"/>
+      <STATION areacode="成安县" code="53996"/>
+      <STATION areacode="大名县" code="54804"/>
+      <STATION areacode="涉县" code="53886"/>
+      <STATION areacode="磁县" code="53897"/>
+      <STATION areacode="肥乡县" code="53980"/>
+      <STATION areacode="永年县" code="53895"/>
+      <STATION areacode="鸡泽县" code="54640"/>
+      <STATION areacode="广平县" code="53899"/>
+      <STATION areacode="馆陶县" code="54809"/>
+      <STATION areacode="魏县" code="53896"/>
+      <STATION areacode="曲周县" code="53893"/>
+    </STATION>
+    <STATION areacode="邢台市" code="53798">
+      <STATION areacode="南宫市" code="54075"/>
+      <STATION areacode="沙河市" code="53781"/>
+      <STATION areacode="邢台县" code="53798"/>
+      <STATION areacode="临城县" code="53792"/>
+      <STATION areacode="内丘县" code="53797"/>
+      <STATION areacode="柏乡县" code="53785"/>
+      <STATION areacode="隆尧县" code="53794"/>
+      <STATION areacode="任县" code="53833"/>
+      <STATION areacode="南和县" code="53891"/>
+      <STATION areacode="宁晋县" code="53796"/>
+      <STATION areacode="巨鹿县" code="53799"/>
+      <STATION areacode="新河县" code="54633"/>
+      <STATION areacode="广宗县" code="54631"/>
+      <STATION areacode="平乡县" code="54632"/>
+      <STATION areacode="威县" code="54800"/>
+      <STATION areacode="清河县" code="54706"/>
+      <STATION areacode="临西县" code="54801"/>
+    </STATION>
+    <STATION areacode="保定市" code="54602">
+      <STATION areacode="涿州市" code="54502"/>
+      <STATION areacode="定州市" code="53696"/>
+      <STATION areacode="安国市" code="54604"/>
+      <STATION areacode="高碑店" code="54506"/>
+      <STATION areacode="满城县" code="54611"/>
+      <STATION areacode="涞水县" code="54508"/>
+      <STATION areacode="阜平县" code="53690"/>
+      <STATION areacode="徐水县" code="54601"/>
+      <STATION areacode="唐县" code="53692"/>
+      <STATION areacode="高阳县" code="54603"/>
+      <STATION areacode="容城县" code="54503"/>
+      <STATION areacode="涞源县" code="53599"/>
+      <STATION areacode="望都县" code="54607"/>
+      <STATION areacode="安新县" code="54605"/>
+      <STATION areacode="易县" code="54507"/>
+      <STATION areacode="曲阳县" code="53682"/>
+      <STATION areacode="蠡县" code="54620"/>
+      <STATION areacode="顺平县" code="53596"/>
+      <STATION areacode="雄县" code="54636"/>
+    </STATION>
+    <STATION areacode="张家口" code="54401">
+      <STATION areacode="宣化县" code="53498"/>
+      <STATION areacode="张北县" code="53399"/>
+      <STATION areacode="康保县" code="53392"/>
+      <STATION areacode="沽源县" code="54301"/>
+      <STATION areacode="尚义县" code="53397"/>
+      <STATION areacode="蔚县" code="53593"/>
+      <STATION areacode="阳原县" code="53492"/>
+      <STATION areacode="怀安县" code="53491"/>
+      <STATION areacode="万全县" code="53499"/>
+      <STATION areacode="怀来县" code="54405"/>
+      <STATION areacode="涿鹿县" code="54408"/>
+      <STATION areacode="赤城县" code="54404"/>
+      <STATION areacode="崇礼县" code="54304"/>
+    </STATION>
+    <STATION areacode="承德市" code="54423">
+      <STATION areacode="承德县" code="54430"/>
+      <STATION areacode="兴隆县" code="54425"/>
+      <STATION areacode="平泉县" code="54319"/>
+      <STATION areacode="滦平县" code="54420"/>
+      <STATION areacode="隆化县" code="54318"/>
+      <STATION areacode="丰宁县" code="54308"/>
+      <STATION areacode="宽城县" code="54432"/>
+      <STATION areacode="围场县" code="54311"/>
+    </STATION>
+    <STATION areacode="沧州市" code="54616">
+      <STATION areacode="任丘市" code="54610"/>
+      <STATION areacode="黄骅市" code="54624"/>
+      <STATION areacode="河间市" code="54614"/>
+      <STATION areacode="青县" code="54615"/>
+      <STATION areacode="东光县" code="54713"/>
+      <STATION areacode="海兴县" code="54628"/>
+      <STATION areacode="盐山县" code="54627"/>
+      <STATION areacode="肃宁县" code="54626"/>
+      <STATION areacode="南皮县" code="54719"/>
+      <STATION areacode="吴桥县" code="54717"/>
+      <STATION areacode="献县" code="54617"/>
+      <STATION areacode="孟村县" code="54644"/>
+    </STATION>
+    <STATION areacode="廊坊市" code="54515">
+      <STATION areacode="霸州市" code="54518"/>
+      <STATION areacode="三河市" code="54520"/>
+      <STATION areacode="固安县" code="54512"/>
+      <STATION areacode="永清县" code="54519"/>
+      <STATION areacode="香河县" code="54521"/>
+      <STATION areacode="大城县" code="54613"/>
+      <STATION areacode="文安县" code="54612"/>
+      <STATION areacode="大厂县" code="54510"/>
+    </STATION>
+    <STATION areacode="衡水市" code="54702">
+      <STATION areacode="冀州市" code="54704"/>
+      <STATION areacode="深州市" code="54608"/>
+      <STATION areacode="枣强县" code="54708"/>
+      <STATION areacode="武邑县" code="54703"/>
+      <STATION areacode="武强县" code="54700"/>
+      <STATION areacode="饶阳县" code="54606"/>
+      <STATION areacode="安平县" code="54609"/>
+      <STATION areacode="故城县" code="54707"/>
+      <STATION areacode="景县" code="54711"/>
+      <STATION areacode="阜城县" code="54710"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="山东省" code="">
+    <STATION areacode="济南市" code="54823">
+      <STATION areacode="长清区" code="54816"/>
+      <STATION areacode="章丘市" code="54727"/>
+      <STATION areacode="平阴县" code="54818"/>
+      <STATION areacode="济阳县" code="54821"/>
+      <STATION areacode="商河县" code="54724"/>
+    </STATION>
+    <STATION areacode="青岛市" code="54857">
+      <STATION areacode="崂山区" code="54853"/>
+      <STATION areacode="胶州市" code="54849"/>
+      <STATION areacode="即墨市" code="54855"/>
+      <STATION areacode="平度市" code="54842"/>
+      <STATION areacode="胶南市" code="54943"/>
+      <STATION areacode="莱西市" code="54851"/>
+    </STATION>
+    <STATION areacode="淄博市" code="54830">
+      <STATION areacode="淄川区" code="54824"/>
+      <STATION areacode="博山区" code="54825"/>
+      <STATION areacode="临淄区" code="54834"/>
+      <STATION areacode="周村区" code="54829"/>
+      <STATION areacode="桓台县" code="54833"/>
+      <STATION areacode="高青县" code="54729"/>
+      <STATION areacode="沂源县" code="54836"/>
+    </STATION>
+    <STATION areacode="枣庄市" code="58024">
+      <STATION areacode="薛城区" code="58021"/>
+      <STATION areacode="台儿庄" code="58025"/>
+      <STATION areacode="滕州市" code="54927"/>
+    </STATION>
+    <STATION areacode="东营市" code="54736">
+      <STATION areacode="河口区" code="54732"/>
+      <STATION areacode="垦利县" code="54744"/>
+      <STATION areacode="利津县" code="54731"/>
+      <STATION areacode="广饶县" code="54738"/>
+    </STATION>
+    <STATION areacode="烟台市" code="54765">
+      <STATION areacode="福山区" code="54764"/>
+      <STATION areacode="牟平区" code="54766"/>
+      <STATION areacode="龙口市" code="54753"/>
+      <STATION areacode="莱阳市" code="54852"/>
+      <STATION areacode="莱州市" code="54749"/>
+      <STATION areacode="蓬莱市" code="54752"/>
+      <STATION areacode="招远市" code="54755"/>
+      <STATION areacode="栖霞市" code="54759"/>
+      <STATION areacode="海阳市" code="54863"/>
+      <STATION areacode="长岛县" code="54751"/>
+    </STATION>
+    <STATION areacode="潍坊市" code="54843">
+      <STATION areacode="青州市" code="54831"/>
+      <STATION areacode="诸城市" code="54848"/>
+      <STATION areacode="寿光市" code="54832"/>
+      <STATION areacode="高密市" code="54846"/>
+      <STATION areacode="昌邑市" code="54841"/>
+      <STATION areacode="临朐县" code="54835"/>
+      <STATION areacode="昌乐县" code="54837"/>
+    </STATION>
+    <STATION areacode="威海市" code="54774">
+      <STATION areacode="文登市" code="54777"/>
+      <STATION areacode="荣成市" code="54778"/>
+      <STATION areacode="乳山市" code="54861"/>
+    </STATION>
+    <STATION areacode="济宁市" code="54915">
+      <STATION areacode="曲阜市" code="54918"/>
+      <STATION areacode="兖州市" code="54916"/>
+      <STATION areacode="微山县" code="58020"/>
+      <STATION areacode="鱼台县" code="54907"/>
+      <STATION areacode="金乡县" code="54917"/>
+      <STATION areacode="嘉祥县" code="54921"/>
+      <STATION areacode="汶上县" code="54912"/>
+      <STATION areacode="泗水县" code="54920"/>
+      <STATION areacode="梁山县" code="54910"/>
+    </STATION>
+    <STATION areacode="泰安市" code="54827">
+      <STATION areacode="新泰市" code="54922"/>
+      <STATION areacode="肥城市" code="54819"/>
+      <STATION areacode="宁阳县" code="54913"/>
+      <STATION areacode="东平县" code="54911"/>
+    </STATION>
+    <STATION areacode="日照市" code="54945">
+    </STATION>
+    <STATION areacode="莱芜市" code="54828"/>
+    <STATION areacode="临沂市" code="54938">
+      <STATION areacode="沂南县" code="54935"/>
+      <STATION areacode="郯城县" code="58034"/>
+      <STATION areacode="沂水县" code="54932"/>
+      <STATION areacode="苍山县" code="58030"/>
+      <STATION areacode="费县" code="54929"/>
+      <STATION areacode="平邑县" code="54925"/>
+      <STATION areacode="莒南县" code="54939"/>
+      <STATION areacode="蒙阴县" code="54923"/>
+    </STATION>
+    <STATION areacode="德州市" code="54714">
+      <STATION areacode="乐陵市" code="54726"/>
+      <STATION areacode="禹城市" code="54811"/>
+      <STATION areacode="陵县" code="54715"/>
+      <STATION areacode="宁津县" code="54716"/>
+      <STATION areacode="庆云县" code="54728"/>
+      <STATION areacode="临邑县" code="54712"/>
+      <STATION areacode="齐河县" code="54812"/>
+      <STATION areacode="平原县" code="54718"/>
+      <STATION areacode="夏津县" code="54803"/>
+      <STATION areacode="武城县" code="54709"/>
+    </STATION>
+    <STATION areacode="聊城市" code="54806">
+      <STATION areacode="临清市" code="54802"/>
+      <STATION areacode="阳谷县" code="54807"/>
+      <STATION areacode="茌平县" code="54814"/>
+      <STATION areacode="东阿县" code="54815"/>
+      <STATION areacode="冠县" code="54805"/>
+      <STATION areacode="高唐县" code="54810"/>
+    </STATION>
+    <STATION areacode="滨州市" code="54734">
+      <STATION areacode="惠民县" code="54725"/>
+      <STATION areacode="阳信县" code="54723"/>
+      <STATION areacode="无棣县" code="54722"/>
+      <STATION areacode="沾化县" code="54730"/>
+      <STATION areacode="博兴县" code="54737"/>
+      <STATION areacode="邹平县" code="54822"/>
+    </STATION>
+    <STATION areacode="菏泽市" code="54906">
+      <STATION areacode="曹县" code="58002"/>
+      <STATION areacode="单县" code="58011"/>
+      <STATION areacode="成武县" code="58003"/>
+      <STATION areacode="巨野县" code="54914"/>
+      <STATION areacode="郓城县" code="54905"/>
+      <STATION areacode="鄄城县" code="54904"/>
+      <STATION areacode="定陶县" code="54909"/>
+      <STATION areacode="东明县" code="54908"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="河南省" code="53732">
+    <STATION areacode="郑州市" code="57083">
+      <STATION areacode="荥阳市" code="57081"/>
+      <STATION areacode="新密市" code="57085"/>
+      <STATION areacode="新郑市" code="57086"/>
+      <STATION areacode="登封市" code="57082"/>
+      <STATION areacode="中牟县" code="57090"/>
+    </STATION>
+    <STATION areacode="开封市" code="57091">
+      <STATION areacode="杞县" code="57096"/>
+      <STATION areacode="通许县" code="57191"/>
+      <STATION areacode="尉氏县" code="57094"/>
+      <STATION areacode="开封县" code="57091"/>
+      <STATION areacode="兰考县" code="57093"/>
+    </STATION>
+    <STATION areacode="洛阳市" code="57073">
+      <STATION areacode="偃师市" code="57076"/>
+      <STATION areacode="孟津县" code="57071"/>
+      <STATION areacode="新安县" code="57070"/>
+      <STATION areacode="栾川县" code="57077"/>
+      <STATION areacode="嵩县" code="57162"/>
+      <STATION areacode="汝阳县" code="57078"/>
+      <STATION areacode="宜阳县" code="57065"/>
+      <STATION areacode="洛宁县" code="57066"/>
+      <STATION areacode="伊川县" code="57074"/>
+    </STATION>
+    <STATION areacode="平顶山" code="57171">
+      <STATION areacode="舞钢市" code="57177"/>
+      <STATION areacode="汝州市" code="57075"/>
+      <STATION areacode="宝丰县" code="57181"/>
+      <STATION areacode="叶县" code="57184"/>
+      <STATION areacode="鲁山县" code="57173"/>
+      <STATION areacode="郏县" code="57180"/>
+    </STATION>
+    <STATION areacode="焦作市" code="53982">
+      <STATION areacode="沁阳市" code="53972"/>
+      <STATION areacode="修武县" code="53984"/>
+      <STATION areacode="博爱县" code="53979"/>
+      <STATION areacode="武陟县" code="53987"/>
+      <STATION areacode="温县" code="57079"/>
+    </STATION>
+    <STATION areacode="鹤壁市" code="53990">
+      <STATION areacode="浚县" code="53992"/>
+      <STATION areacode="淇县" code="53974"/>
+    </STATION>
+    <STATION areacode="新乡市" code="53986">
+      <STATION areacode="卫辉市" code="53994"/>
+      <STATION areacode="辉县市" code="53985"/>
+      <STATION areacode="新乡县" code="53986"/>
+      <STATION areacode="获嘉县" code="53988"/>
+      <STATION areacode="原阳县" code="53989"/>
+      <STATION areacode="延津县" code="53997"/>
+      <STATION areacode="封丘县" code="53983"/>
+      <STATION areacode="长垣县" code="53998"/>
+    </STATION>
+    <STATION areacode="安阳市" code="53898">
+      <STATION areacode="林州市" code="53889"/>
+      <STATION areacode="安阳县" code="53898"/>
+      <STATION areacode="汤阴县" code="53991"/>
+      <STATION areacode="滑县" code="53995"/>
+      <STATION areacode="内黄县" code="53993"/>
+    </STATION>
+    <STATION areacode="濮阳市" code="54900">
+      <STATION areacode="清丰县" code="54902"/>
+      <STATION areacode="南乐县" code="54901"/>
+      <STATION areacode="范县" code="54903"/>
+      <STATION areacode="台前县" code="54817"/>
+      <STATION areacode="濮阳县" code="54900"/>
+    </STATION>
+    <STATION areacode="许昌市" code="57089">
+      <STATION areacode="禹州市" code="57088"/>
+      <STATION areacode="长葛市" code="57087"/>
+      <STATION areacode="许昌县" code="57089"/>
+      <STATION areacode="鄢陵县" code="57095"/>
+      <STATION areacode="襄城县" code="57182"/>
+    </STATION>
+    <STATION areacode="漯河市" code="57186">
+      <STATION areacode="舞阳县" code="57185"/>
+      <STATION areacode="临颍县" code="57183"/>
+    </STATION>
+    <STATION areacode="三门峡" code="57051">
+      <STATION areacode="灵宝市" code="57056"/>
+      <STATION areacode="渑池县" code="57063"/>
+      <STATION areacode="卢氏县" code="57067"/>
+    </STATION>
+    <STATION areacode="南阳市" code="57178">
+      <STATION areacode="邓州市" code="57274"/>
+      <STATION areacode="南召县" code="57176"/>
+      <STATION areacode="方城县" code="57179"/>
+      <STATION areacode="西峡县" code="57156"/>
+      <STATION areacode="镇平县" code="57175"/>
+      <STATION areacode="内乡县" code="57169"/>
+      <STATION areacode="淅川县" code="57261"/>
+      <STATION areacode="社旗县" code="57187"/>
+      <STATION areacode="唐河县" code="57273"/>
+      <STATION areacode="新野县" code="57271"/>
+      <STATION areacode="桐柏县" code="57285"/>
+    </STATION>
+    <STATION areacode="商丘市" code="58005">
+      <STATION areacode="永城市" code="58111"/>
+      <STATION areacode="民权县" code="58004"/>
+      <STATION areacode="睢县" code="58001"/>
+      <STATION areacode="宁陵县" code="58008"/>
+      <STATION areacode="柘城县" code="58007"/>
+      <STATION areacode="虞城县" code="58006"/>
+      <STATION areacode="夏邑县" code="58010"/>
+    </STATION>
+    <STATION areacode="信阳市" code="57289">
+      <STATION areacode="罗山县" code="57298"/>
+      <STATION areacode="光山县" code="57299"/>
+      <STATION areacode="新县" code="57396"/>
+      <STATION areacode="商城县" code="58301"/>
+      <STATION areacode="固始县" code="58208"/>
+      <STATION areacode="潢川县" code="58207"/>
+      <STATION areacode="淮滨县" code="58205"/>
+      <STATION areacode="息县" code="57296"/>
+    </STATION>
+    <STATION areacode="周口市" code="57195">
+      <STATION areacode="项城市" code="57196"/>
+      <STATION areacode="扶沟县" code="57098"/>
+      <STATION areacode="西华县" code="57193"/>
+      <STATION areacode="商水县" code="57198"/>
+      <STATION areacode="沈丘县" code="58104"/>
+      <STATION areacode="郸城县" code="58100"/>
+      <STATION areacode="淮阳县" code="57192"/>
+      <STATION areacode="太康县" code="57099"/>
+      <STATION areacode="鹿邑县" code="58101"/>
+    </STATION>
+    <STATION areacode="驻马店" code="57290">
+      <STATION areacode="西平县" code="57188"/>
+      <STATION areacode="上蔡县" code="57194"/>
+      <STATION areacode="平舆县" code="57292"/>
+      <STATION areacode="正阳县" code="57295"/>
+      <STATION areacode="确山县" code="57294"/>
+      <STATION areacode="沁阳县" code="53972"/>
+      <STATION areacode="汝南县" code="57197"/>
+      <STATION areacode="遂平县" code="57189"/>
+      <STATION areacode="新蔡县" code="57293"/>
+    </STATION>
+    <STATION areacode="济源市" code="53978"/>
+  </STATION>
+  <STATION areacode="安徽省" code="">
+    <STATION areacode="合肥市" code="58321">
+      <STATION areacode="长丰县" code="58220"/>
+      <STATION areacode="肥东县" code="58323"/>
+      <STATION areacode="肥西县" code="58320"/>
+    </STATION>
+    <STATION areacode="芜湖市" code="58334">
+      <STATION areacode="芜湖县" code="58338"/>
+      <STATION areacode="繁昌县" code="58337"/>
+      <STATION areacode="南陵县" code="58431"/>
+    </STATION>
+    <STATION areacode="蚌埠市" code="58221">
+      <STATION areacode="怀远县" code="58127"/>
+      <STATION areacode="五河县" code="58129"/>
+      <STATION areacode="固镇县" code="58128"/>
+    </STATION>
+    <STATION areacode="淮南市" code="58224">
+      <STATION areacode="凤台县" code="58212"/>
+    </STATION>
+    <STATION areacode="马鞍山" code="58336">
+      <STATION areacode="当涂县" code="58335"/>
+    </STATION>
+    <STATION areacode="淮北市" code="58116">
+      <STATION areacode="濉溪县" code="58113"/>
+    </STATION>
+    <STATION areacode="铜陵市" code="58429">
+      <STATION areacode="铜陵县" code="58429"/>
+    </STATION>
+    <STATION areacode="安庆市" code="58424">
+      <STATION areacode="桐城市" code="58319"/>
+      <STATION areacode="怀宁县" code="58416"/>
+      <STATION areacode="枞阳县" code="58420"/>
+      <STATION areacode="潜山县" code="58415"/>
+      <STATION areacode="太湖县" code="58414"/>
+      <STATION areacode="宿松县" code="58417"/>
+      <STATION areacode="望江县" code="58418"/>
+      <STATION areacode="岳西县" code="58317"/>
+    </STATION>
+    <STATION areacode="黄山市" code="58426">
+      <STATION areacode="歙县" code="58530"/>
+      <STATION areacode="休宁县" code="58534"/>
+      <STATION areacode="黟县" code="58523"/>
+      <STATION areacode="祁门县" code="58520"/>
+    </STATION>
+    <STATION areacode="滁州市" code="58236">
+      <STATION areacode="天长市" code="58240"/>
+      <STATION areacode="明光市" code="58223"/>
+      <STATION areacode="来安县" code="58234"/>
+      <STATION areacode="全椒县" code="58230"/>
+      <STATION areacode="定远县" code="58225"/>
+      <STATION areacode="凤阳县" code="58222"/>
+    </STATION>
+    <STATION areacode="阜阳市" code="58203">
+      <STATION areacode="界首市" code="58108"/>
+      <STATION areacode="临泉县" code="58107"/>
+      <STATION areacode="太和县" code="58109"/>
+      <STATION areacode="阜南县" code="58202"/>
+      <STATION areacode="颍上县" code="58210"/>
+    </STATION>
+    <STATION areacode="宿州市" code="58122">
+      <STATION areacode="砀山县" code="58015"/>
+      <STATION areacode="萧县" code="58016"/>
+      <STATION areacode="泗县" code="58126"/>
+    </STATION>
+    <STATION areacode="巢湖市" code="58326">
+      <STATION areacode="庐江县" code="58327"/>
+      <STATION areacode="无为县" code="58329"/>
+      <STATION areacode="含山县" code="58330"/>
+      <STATION areacode="和县" code="58331"/>
+    </STATION>
+    <STATION areacode="六安市" code="58311">
+      <STATION areacode="寿县" code="58215"/>
+      <STATION areacode="霍邱县" code="58214"/>
+      <STATION areacode="舒城县" code="58316"/>
+      <STATION areacode="金寨县" code="58306"/>
+      <STATION areacode="霍山县" code="58314"/>
+    </STATION>
+    <STATION areacode="亳州市" code="58102">
+      <STATION areacode="涡阳县" code="58114"/>
+      <STATION areacode="蒙城县" code="58118"/>
+      <STATION areacode="利辛县" code="58117"/>
+    </STATION>
+    <STATION areacode="池州市" code="58427">
+      <STATION areacode="东至县" code="58419"/>
+      <STATION areacode="石台县" code="58428"/>
+      <STATION areacode="青阳县" code="58421"/>
+    </STATION>
+    <STATION areacode="宣城市" code="58433">
+      <STATION areacode="宣州区" code="58433"/>
+      <STATION areacode="宁国市" code="58436"/>
+      <STATION areacode="郎溪县" code="58442"/>
+      <STATION areacode="广德县" code="58441"/>
+      <STATION areacode="泾县" code="58432"/>
+      <STATION areacode="绩溪县" code="58438"/>
+      <STATION areacode="旌德县" code="58435"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="江苏省" code="">
+    <STATION areacode="南京市" code="58238">
+      <STATION areacode="江宁" code="58333"/>
+      <STATION areacode="六合" code="58235"/>
+      <STATION areacode="溧水" code="58340"/>
+      <STATION areacode="高淳" code="58339"/>
+    </STATION>
+    <STATION areacode="无锡市" code="58354">
+      <STATION areacode="江阴" code="58351"/>
+      <STATION areacode="宜兴" code="58346"/>
+    </STATION>
+    <STATION areacode="徐州市" code="58027">
+      <STATION areacode="新沂" code="58035"/>
+      <STATION areacode="丰县" code="58012"/>
+      <STATION areacode="沛县" code="58013"/>
+      <STATION areacode="睢宁" code="58130"/>
+    </STATION>
+    <STATION areacode="常州市" code="58343">
+      <STATION areacode="溧阳" code="58345"/>
+      <STATION areacode="金坛" code="58342"/>
+    </STATION>
+    <STATION areacode="苏州市" code="58357">
+      <STATION areacode="平江" code="57682"/>
+      <STATION areacode="常熟" code="58352"/>
+      <STATION areacode="张家港" code="58353"/>
+      <STATION areacode="昆山" code="58356"/>
+      <STATION areacode="吴江" code="58359"/>
+      <STATION areacode="太仓" code="58377"/>
+    </STATION>
+    <STATION areacode="南通市" code="58259">
+      <STATION areacode="启东" code="58269"/>
+      <STATION areacode="如皋" code="58255"/>
+      <STATION areacode="海门" code="58360"/>
+      <STATION areacode="海安" code="58254"/>
+      <STATION areacode="如东" code="58264"/>
+    </STATION>
+    <STATION areacode="连云港" code="58044">
+      <STATION areacode="连云" code="58044"/>
+      <STATION areacode="赣榆" code="58040"/>
+      <STATION areacode="东海" code="58036"/>
+      <STATION areacode="灌云" code="58047"/>
+      <STATION areacode="灌南" code="58048"/>
+    </STATION>
+    <STATION areacode="淮安市" code="58145">
+      <STATION areacode="清河" code="54706"/>
+      <STATION areacode="淮阴" code="58144"/>
+      <STATION areacode="涟水" code="58140"/>
+      <STATION areacode="洪泽" code="58139"/>
+      <STATION areacode="盱眙" code="58138"/>
+      <STATION areacode="金湖" code="58147"/>
+    </STATION>
+    <STATION areacode="盐城市" code="58151">
+      <STATION areacode="盐都" code="58154"/>
+      <STATION areacode="东台" code="58251"/>
+      <STATION areacode="大丰" code="58158"/>
+      <STATION areacode="响水" code="58045"/>
+      <STATION areacode="滨海" code="58049"/>
+      <STATION areacode="阜宁" code="58143"/>
+      <STATION areacode="射阳" code="58150"/>
+      <STATION areacode="建湖" code="58146"/>
+    </STATION>
+    <STATION areacode="扬州市" code="58239">
+      <STATION areacode="仪征" code="58242"/>
+      <STATION areacode="高邮" code="58241"/>
+      <STATION areacode="江都" code="58244"/>
+      <STATION areacode="宝应" code="58148"/>
+    </STATION>
+    <STATION areacode="镇江市" code="58252">
+      <STATION areacode="丹徒" code="58248"/>
+      <STATION areacode="丹阳" code="58341"/>
+      <STATION areacode="扬中" code="58247"/>
+      <STATION areacode="句容" code="58344"/>
+    </STATION>
+    <STATION areacode="泰州市" code="58246">
+      <STATION areacode="兴化" code="58243"/>
+      <STATION areacode="靖江" code="58257"/>
+      <STATION areacode="泰兴" code="58249"/>
+      <STATION areacode="姜堰" code="58250"/>
+    </STATION>
+    <STATION areacode="宿迁市" code="58131">
+      <STATION areacode="沐阳" code="58038"/>
+      <STATION areacode="泗阳" code="58132"/>
+      <STATION areacode="泗洪" code="58135"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="上海市" code="58361">
+    <STATION areacode="上海市" code="58362">
+      <STATION areacode="普陀区" code="58570"/>
+      <STATION areacode="宝山区" code="58362"/>
+      <STATION areacode="嘉定区" code="58365"/>
+      <STATION areacode="松江区" code="58462"/>
+      <STATION areacode="青浦区" code="58461"/>
+      <STATION areacode="南汇区" code="58369"/>
+      <STATION areacode="奉贤区" code="58463"/>
+      <STATION areacode="崇明县" code="58366"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="湖北省" code="">
+    <STATION areacode="武汉市" code="57494">
+      <STATION areacode="蔡甸区" code="57489"/>
+      <STATION areacode="江夏区" code="57493"/>
+      <STATION areacode="黄陂区" code="57491"/>
+      <STATION areacode="新洲区" code="57492"/>
+    </STATION>
+    <STATION areacode="黄石市" code="58407">
+      <STATION areacode="大冶市" code="57499"/>
+      <STATION areacode="阳新县" code="58500"/>
+    </STATION>
+    <STATION areacode="襄樊市" code="57278">
+      <STATION areacode="老河口" code="57265"/>
+      <STATION areacode="枣阳市" code="57279"/>
+      <STATION areacode="宜城市" code="57370"/>
+      <STATION areacode="南漳县" code="57363"/>
+      <STATION areacode="谷城县" code="57268"/>
+      <STATION areacode="保康县" code="57361"/>
+    </STATION>
+    <STATION areacode="十堰市" code="57256">
+      <STATION areacode="丹江口" code="57260"/>
+      <STATION areacode="竹山县" code="57257"/>
+      <STATION areacode="郧西县" code="57251"/>
+      <STATION areacode="竹溪县" code="57249"/>
+    </STATION>
+    <STATION areacode="荆州市" code="57476">
+      <STATION areacode="洪湖市" code="57581"/>
+      <STATION areacode="石首市" code="57571"/>
+      <STATION areacode="松滋市" code="57469"/>
+      <STATION areacode="监利县" code="57573"/>
+      <STATION areacode="公安县" code="57477"/>
+    </STATION>
+    <STATION areacode="宜昌市" code="57453">
+      <STATION areacode="当阳市" code="57460"/>
+      <STATION areacode="枝江市" code="57466"/>
+      <STATION areacode="秭归县" code="57358"/>
+      <STATION areacode="兴山县" code="57359"/>
+      <STATION areacode="五峰县" code="57458"/>
+      <STATION areacode="长阳县" code="57464"/>
+    </STATION>
+    <STATION areacode="荆门市" code="57377">
+      <STATION areacode="钟祥市" code="57378"/>
+      <STATION areacode="京山县" code="57387"/>
+    </STATION>
+    <STATION areacode="鄂州市" code="57496"/>
+    <STATION areacode="孝感市" code="57482">
+      <STATION areacode="应城市" code="57481"/>
+      <STATION areacode="安陆市" code="57388"/>
+      <STATION areacode="汉川市" code="57486"/>
+      <STATION areacode="云梦县" code="57389"/>
+      <STATION areacode="大悟县" code="57395"/>
+    </STATION>
+    <STATION areacode="黄冈市" code="57498">
+      <STATION areacode="麻城市" code="57399"/>
+      <STATION areacode="武穴市" code="58501"/>
+      <STATION areacode="红安县" code="57398"/>
+      <STATION areacode="罗田县" code="58401"/>
+      <STATION areacode="浠水县" code="58404"/>
+      <STATION areacode="蕲春县" code="58408"/>
+      <STATION areacode="黄梅县" code="58409"/>
+      <STATION areacode="英山县" code="58402"/>
+    </STATION>
+    <STATION areacode="咸宁市" code="57590">
+      <STATION areacode="嘉鱼县" code="57583"/>
+      <STATION areacode="通山县" code="57595"/>
+      <STATION areacode="崇阳县" code="57586"/>
+      <STATION areacode="通城县" code="57589"/>
+    </STATION>
+    <STATION areacode="随州市" code="57385">
+      <STATION areacode="广水市" code="57385"/>
+    </STATION>
+    <STATION areacode="恩施市" code="57447">
+      <STATION areacode="恩施市" code="57447"/>
+      <STATION areacode="利川市" code="57439"/>
+      <STATION areacode="建始县" code="57445"/>
+      <STATION areacode="来凤县" code="57545"/>
+      <STATION areacode="巴东县" code="57355"/>
+      <STATION areacode="鹤峰县" code="57543"/>
+      <STATION areacode="宣恩县" code="57541"/>
+      <STATION areacode="咸丰县" code="57540"/>
+    </STATION>
+    <STATION areacode="仙桃市" code="57485"/>
+    <STATION areacode="天门市" code="57483"/>
+    <STATION areacode="潜江市" code="57475"/>
+    <STATION areacode="神农架林区" code="57362"/>
+  </STATION>
+  <STATION areacode="湖南省" code="">
+    <STATION areacode="长沙市" code="57679">
+      <STATION areacode="浏阳市" code="57688"/>
+      <STATION areacode="长沙县" code="57679"/>
+      <STATION areacode="宁乡县" code="57678"/>
+    </STATION>
+    <STATION areacode="株洲市" code="57780">
+      <STATION areacode="醴陵市" code="57781"/>
+      <STATION areacode="株洲县" code="57782"/>
+      <STATION areacode="炎陵县" code="57886"/>
+      <STATION areacode="茶陵县" code="57882"/>
+      <STATION areacode="攸县" code="57779"/>
+    </STATION>
+    <STATION areacode="湘潭市" code="57773">
+      <STATION areacode="韶山市" code="57771"/>
+      <STATION areacode="湘乡市" code="57772"/>
+      <STATION areacode="湘潭县" code="57773"/>
+    </STATION>
+    <STATION areacode="衡阳市" code="57872">
+      <STATION areacode="耒阳市" code="57876"/>
+      <STATION areacode="常宁市" code="57874"/>
+      <STATION areacode="衡阳县" code="57871"/>
+      <STATION areacode="衡东县" code="57778"/>
+      <STATION areacode="衡山县" code="57777"/>
+      <STATION areacode="衡南县" code="57875"/>
+      <STATION areacode="祁东县" code="57870"/>
+    </STATION>
+    <STATION areacode="邵阳市" code="57766">
+      <STATION areacode="武冈市" code="57853"/>
+      <STATION areacode="邵东县" code="57769"/>
+      <STATION areacode="洞口县" code="57758"/>
+      <STATION areacode="新邵县" code="57768"/>
+      <STATION areacode="绥宁县" code="57846"/>
+      <STATION areacode="新宁县" code="57851"/>
+      <STATION areacode="邵阳县" code="57860"/>
+      <STATION areacode="隆回县" code="57767"/>
+      <STATION areacode="城步县" code="57857"/>
+    </STATION>
+    <STATION areacode="岳阳市" code="57584">
+      <STATION areacode="临湘市" code="57585"/>
+      <STATION areacode="汨罗市" code="57680"/>
+      <STATION areacode="岳阳县" code="57584"/>
+      <STATION areacode="湘阴县" code="57673"/>
+      <STATION areacode="平江县" code="57682"/>
+      <STATION areacode="华容县" code="57575"/>
+    </STATION>
+    <STATION areacode="常德市" code="57662">
+      <STATION areacode="澧县" code="57565"/>
+      <STATION areacode="临澧县" code="57566"/>
+      <STATION areacode="桃源县" code="57661"/>
+      <STATION areacode="汉寿县" code="57663"/>
+      <STATION areacode="安乡县" code="57577"/>
+      <STATION areacode="石门县" code="57562"/>
+    </STATION>
+    <STATION areacode="张家界" code="57558">
+      <STATION areacode="慈利县" code="57564"/>
+      <STATION areacode="石门县" code="57562"/>
+    </STATION>
+    <STATION areacode="郴州市" code="57972">
+      <STATION areacode="资兴市" code="57981"/>
+      <STATION areacode="宜章县" code="57976"/>
+      <STATION areacode="汝城县" code="57985"/>
+      <STATION areacode="安仁县" code="57881"/>
+      <STATION areacode="嘉禾县" code="57974"/>
+      <STATION areacode="临武县" code="57978"/>
+      <STATION areacode="桂东县" code="57889"/>
+      <STATION areacode="永兴县" code="57887"/>
+      <STATION areacode="桂阳县" code="57973"/>
+    </STATION>
+    <STATION areacode="益阳市" code="57674">
+      <STATION areacode="沅江市" code="57671"/>
+      <STATION areacode="桃江县" code="57666"/>
+      <STATION areacode="南县" code="57574"/>
+      <STATION areacode="安化县" code="57669"/>
+    </STATION>
+    <STATION areacode="永州市" code="57866">
+      <STATION areacode="冷水滩区" code="57865"/>
+      <STATION areacode="祁阳县" code="57868"/>
+      <STATION areacode="蓝山县" code="57975"/>
+      <STATION areacode="宁远县" code="57966"/>
+      <STATION areacode="新田县" code="57971"/>
+      <STATION areacode="东安县" code="57867"/>
+      <STATION areacode="江永县" code="57969"/>
+      <STATION areacode="道县" code="57965"/>
+      <STATION areacode="双牌县" code="57962"/>
+      <STATION areacode="江华县" code="59063"/>
+    </STATION>
+    <STATION areacode="怀化市" code="57746">
+      <STATION areacode="会同县" code="57842"/>
+      <STATION areacode="沅陵县" code="57655"/>
+      <STATION areacode="辰溪县" code="57658"/>
+      <STATION areacode="溆浦县" code="57752"/>
+      <STATION areacode="新晃县" code="57744"/>
+      <STATION areacode="芷江县" code="57745"/>
+      <STATION areacode="通道县" code="57845"/>
+      <STATION areacode="靖州县" code="57841"/>
+      <STATION areacode="麻阳县" code="57743"/>
+    </STATION>
+    <STATION areacode="娄底地区" code="57763">
+      <STATION areacode="娄底市" code="57763"/>
+      <STATION areacode="冷水江" code="57760"/>
+      <STATION areacode="涟源市" code="57762"/>
+      <STATION areacode="新化县" code="57761"/>
+      <STATION areacode="双峰县" code="57774"/>
+    </STATION>
+    <STATION areacode="湘西州" code="57649">
+      <STATION areacode="吉首市" code="57649"/>
+      <STATION areacode="古丈县" code="57646"/>
+      <STATION areacode="龙山县" code="57544"/>
+      <STATION areacode="永顺县" code="57643"/>
+      <STATION areacode="凤凰县" code="57740"/>
+      <STATION areacode="泸溪县" code="57657"/>
+      <STATION areacode="保靖县" code="57642"/>
+      <STATION areacode="花垣县" code="57640"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="江西省" code="">
+    <STATION areacode="南昌市" code="58606">
+      <STATION areacode="南昌县" code="58607"/>
+      <STATION areacode="新建县" code="58693"/>
+      <STATION areacode="安义县" code="58602"/>
+      <STATION areacode="进贤县" code="58614"/>
+    </STATION>
+    <STATION areacode="景德镇" code="58527">
+      <STATION areacode="乐平市" code="58620"/>
+    </STATION>
+    <STATION areacode="萍乡市" code="57786">
+      <STATION areacode="莲花县" code="57789"/>
+    </STATION>
+    <STATION areacode="九江市" code="58502">
+      <STATION areacode="瑞昌市" code="58503"/>
+      <STATION areacode="九江县" code="58506"/>
+      <STATION areacode="武宁县" code="58507"/>
+      <STATION areacode="修水县" code="57598"/>
+      <STATION areacode="永修县" code="58509"/>
+      <STATION areacode="德安县" code="58508"/>
+      <STATION areacode="星子县" code="58514"/>
+      <STATION areacode="都昌县" code="58517"/>
+      <STATION areacode="湖口县" code="58510"/>
+      <STATION areacode="彭泽县" code="58512"/>
+    </STATION>
+    <STATION areacode="新余市" code="57796">
+      <STATION areacode="分宜县" code="57792"/>
+    </STATION>
+    <STATION areacode="鹰潭市" code="58627">
+      <STATION areacode="贵溪市" code="58626"/>
+      <STATION areacode="余江县" code="58616"/>
+    </STATION>
+    <STATION areacode="赣州市" code="57993">
+      <STATION areacode="瑞金市" code="58903"/>
+      <STATION areacode="南康市" code="57992"/>
+      <STATION areacode="赣县" code="58900"/>
+      <STATION areacode="信丰县" code="57995"/>
+      <STATION areacode="大余县" code="57994"/>
+      <STATION areacode="上犹县" code="57991"/>
+      <STATION areacode="崇义县" code="57990"/>
+      <STATION areacode="安远县" code="58907"/>
+      <STATION areacode="龙南县" code="59092"/>
+      <STATION areacode="定南县" code="59093"/>
+      <STATION areacode="全南县" code="59091"/>
+      <STATION areacode="宁都县" code="58806"/>
+      <STATION areacode="于都县" code="58905"/>
+      <STATION areacode="兴国县" code="58804"/>
+      <STATION areacode="会昌县" code="58906"/>
+      <STATION areacode="寻乌县" code="59102"/>
+      <STATION areacode="石城县" code="58814"/>
+    </STATION>
+    <STATION areacode="吉安市" code="57799">
+      <STATION areacode="井冈山" code="57894"/>
+      <STATION areacode="吉安县" code="57797"/>
+      <STATION areacode="吉水县" code="58707"/>
+      <STATION areacode="峡江县" code="58704"/>
+      <STATION areacode="新干县" code="58701"/>
+      <STATION areacode="永丰县" code="58705"/>
+      <STATION areacode="泰和县" code="57899"/>
+      <STATION areacode="遂川县" code="57896"/>
+      <STATION areacode="万安县" code="57895"/>
+      <STATION areacode="安福县" code="57798"/>
+      <STATION areacode="永新县" code="57891"/>
+    </STATION>
+    <STATION areacode="宜春市" code="57793">
+      <STATION areacode="丰城市" code="58609"/>
+      <STATION areacode="樟树市" code="58608"/>
+      <STATION areacode="高安市" code="58605"/>
+      <STATION areacode="奉新县" code="58601"/>
+      <STATION areacode="万载县" code="57698"/>
+      <STATION areacode="上高县" code="57699"/>
+      <STATION areacode="宜丰县" code="57696"/>
+      <STATION areacode="靖安县" code="58600"/>
+      <STATION areacode="铜鼓县" code="57694"/>
+    </STATION>
+    <STATION areacode="抚州市" code="58617">
+      <STATION areacode="南城县" code="58715"/>
+      <STATION areacode="黎川县" code="58712"/>
+      <STATION areacode="南丰县" code="58718"/>
+      <STATION areacode="崇仁县" code="58710"/>
+      <STATION areacode="乐安县" code="58706"/>
+      <STATION areacode="宜黄县" code="58714"/>
+      <STATION areacode="金溪县" code="58712"/>
+      <STATION areacode="资溪县" code="58713"/>
+      <STATION areacode="东乡县" code="58618"/>
+      <STATION areacode="广昌县" code="58813"/>
+    </STATION>
+    <STATION areacode="上饶市" code="58637">
+      <STATION areacode="德兴市" code="58622"/>
+      <STATION areacode="上饶县" code="58623"/>
+      <STATION areacode="广丰县" code="58635"/>
+      <STATION areacode="玉山县" code="58634"/>
+      <STATION areacode="铅山县" code="58629"/>
+      <STATION areacode="横峰县" code="58625"/>
+      <STATION areacode="弋阳县" code="58624"/>
+      <STATION areacode="余干县" code="58612"/>
+      <STATION areacode="万年县" code="58615"/>
+      <STATION areacode="婺源县" code="58529"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="浙江省" code="">
+    <STATION areacode="杭州市" code="58457">
+      <STATION areacode="萧山区" code="58459"/>
+      <STATION areacode="建德市" code="58544"/>
+      <STATION areacode="富阳市" code="58449"/>
+      <STATION areacode="临安市" code="58448"/>
+      <STATION areacode="桐庐县" code="58542"/>
+      <STATION areacode="淳安县" code="58543"/>
+    </STATION>
+    <STATION areacode="宁波市" code="58468">
+      <STATION areacode="江北区" code="57513"/>
+      <STATION areacode="镇海区" code="58563"/>
+      <STATION areacode="余姚市" code="58468"/>
+      <STATION areacode="慈溪市" code="58467"/>
+      <STATION areacode="奉化市" code="58565"/>
+      <STATION areacode="象山县" code="58566"/>
+      <STATION areacode="宁海县" code="58567"/>
+    </STATION>
+    <STATION areacode="温州市" code="58659">
+      <STATION areacode="瑞安市" code="58752"/>
+      <STATION areacode="乐清市" code="58656"/>
+      <STATION areacode="洞头县" code="58760"/>
+      <STATION areacode="永嘉县" code="58658"/>
+      <STATION areacode="平阳县" code="58751"/>
+      <STATION areacode="文成县" code="58750"/>
+      <STATION areacode="泰顺县" code="58746"/>
+    </STATION>
+    <STATION areacode="嘉兴市" code="58452">
+      <STATION areacode="海宁市" code="58455"/>
+      <STATION areacode="平湖市" code="58464"/>
+      <STATION areacode="桐乡市" code="58456"/>
+      <STATION areacode="嘉善县" code="58451"/>
+      <STATION areacode="海盐县" code="58458"/>
+    </STATION>
+    <STATION areacode="湖州市" code="58450">
+      <STATION areacode="德清县" code="58454"/>
+      <STATION areacode="长兴县" code="58443"/>
+      <STATION areacode="安吉县" code="58446"/>
+    </STATION>
+    <STATION areacode="绍兴市" code="58453">
+      <STATION areacode="诸暨市" code="58550"/>
+      <STATION areacode="上虞市" code="58553"/>
+      <STATION areacode="嵊州市" code="58556"/>
+      <STATION areacode="绍兴县" code="58453"/>
+      <STATION areacode="新昌县" code="58555"/>
+    </STATION>
+    <STATION areacode="金华市" code="58549">
+      <STATION areacode="兰溪市" code="58548"/>
+      <STATION areacode="义乌市" code="58557"/>
+      <STATION areacode="东阳市" code="58558"/>
+      <STATION areacode="永康市" code="58643"/>
+      <STATION areacode="武义县" code="58642"/>
+      <STATION areacode="浦江县" code="56281"/>
+    </STATION>
+    <STATION areacode="衢州市" code="58633">
+      <STATION areacode="江山市" code="58632"/>
+      <STATION areacode="常山县" code="58631"/>
+      <STATION areacode="开化县" code="58537"/>
+      <STATION areacode="龙游县" code="58547"/>
+    </STATION>
+    <STATION areacode="舟山市" code="58477">
+      <STATION areacode="普陀区" code="58570"/>
+      <STATION areacode="岱山县" code="58484"/>
+      <STATION areacode="嵊泗县" code="58472"/>
+    </STATION>
+    <STATION areacode="台州市" code="58664">
+      <STATION areacode="温岭市" code="58664"/>
+      <STATION areacode="临海市" code="58660"/>
+      <STATION areacode="玉环县" code="58667"/>
+      <STATION areacode="三门县" code="58568"/>
+      <STATION areacode="天台县" code="58559"/>
+      <STATION areacode="仙居县" code="58652"/>
+    </STATION>
+    <STATION areacode="丽水市" code="58646">
+      <STATION areacode="龙泉市" code="58647"/>
+      <STATION areacode="青田县" code="58657"/>
+      <STATION areacode="缙云县" code="58654"/>
+      <STATION areacode="遂昌县" code="58644"/>
+      <STATION areacode="云和县" code="58742"/>
+      <STATION areacode="庆元县" code="58745"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="福建省" code="">
+    <STATION areacode="福州市" code="58847">
+      <STATION areacode="闽侯县" code="58844"/>
+      <STATION areacode="连江县" code="58848"/>
+      <STATION areacode="罗源县" code="58845"/>
+      <STATION areacode="闽清县" code="58839"/>
+      <STATION areacode="永泰县" code="58932"/>
+      <STATION areacode="平潭县" code="58944"/>
+      <STATION areacode="福清市" code="58942"/>
+      <STATION areacode="长乐市" code="58941"/>
+    </STATION>
+    <STATION areacode="厦门市" code="59134">
+      <STATION areacode="同安区" code="59130"/>
+    </STATION>
+    <STATION areacode="莆田市" code="58946">
+      <STATION areacode="秀屿区" code="58938"/>
+      <STATION areacode="仙游县" code="58936"/>
+    </STATION>
+    <STATION areacode="三明市" code="58828">
+      <STATION areacode="明溪县" code="58824"/>
+      <STATION areacode="清流县" code="58819"/>
+      <STATION areacode="宁化县" code="58818"/>
+      <STATION areacode="大田县" code="58923"/>
+      <STATION areacode="尤溪县" code="58837"/>
+      <STATION areacode="沙县" code="58826"/>
+      <STATION areacode="将乐县" code="58821"/>
+      <STATION areacode="泰宁县" code="58820"/>
+      <STATION areacode="建宁县" code="58822"/>
+      <STATION areacode="永安市" code="58921"/>
+    </STATION>
+    <STATION areacode="泉州市" code="59132">
+      <STATION areacode="安溪县" code="58929"/>
+      <STATION areacode="永春县" code="58934"/>
+      <STATION areacode="德化县" code="58935"/>
+      <STATION areacode="晋江市" code="59137"/>
+      <STATION areacode="南安市" code="59131"/>
+    </STATION>
+    <STATION areacode="漳州市" code="59126">
+      <STATION areacode="云霄县" code="59322"/>
+      <STATION areacode="漳浦县" code="59129"/>
+      <STATION areacode="诏安县" code="59320"/>
+      <STATION areacode="东山县" code="59321"/>
+      <STATION areacode="南靖县" code="59124"/>
+      <STATION areacode="平和县" code="59125"/>
+      <STATION areacode="龙海市" code="59127"/>
+      <STATION areacode="华安县" code="58928"/>
+    </STATION>
+    <STATION areacode="南平市" code="58834">
+      <STATION areacode="顺昌县" code="58823"/>
+      <STATION areacode="浦城县" code="58731"/>
+      <STATION areacode="光泽县" code="58724"/>
+      <STATION areacode="松溪县" code="58735"/>
+      <STATION areacode="政和县" code="58736"/>
+      <STATION areacode="邵武市" code="58725"/>
+      <STATION areacode="武夷山" code="58730"/>
+      <STATION areacode="建瓯市" code="58737"/>
+      <STATION areacode="建阳市" code="58734"/>
+    </STATION>
+    <STATION areacode="龙岩市" code="58927">
+      <STATION areacode="长汀县" code="58911"/>
+      <STATION areacode="永定县" code="59113"/>
+      <STATION areacode="上杭县" code="58918"/>
+      <STATION areacode="武平县" code="58917"/>
+      <STATION areacode="连城县" code="58912"/>
+      <STATION areacode="漳平市" code="58926"/>
+    </STATION>
+    <STATION areacode="宁德市" code="58846">
+      <STATION areacode="霞浦县" code="58843"/>
+      <STATION areacode="古田县" code="58836"/>
+      <STATION areacode="屏南县" code="58933"/>
+      <STATION areacode="寿宁县" code="58744"/>
+      <STATION areacode="周宁县" code="58747"/>
+      <STATION areacode="柘荣县" code="58749"/>
+      <STATION areacode="福安市" code="58748"/>
+      <STATION areacode="福鼎市" code="58754"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="台湾" code="">
+    <STATION areacode="台北市" code="58968"/>
+    <STATION areacode="台中市" code="59158"/>
+    <STATION areacode="新竹市" code="59152"/>
+    <STATION areacode="高雄市" code="59554"/>
+    <STATION areacode="台南市" code="59358"/>
+    <STATION areacode="台北县" code="58969"/>
+    <STATION areacode="宜兰县" code="59162"/>
+    <STATION areacode="新竹县" code="59152"/>
+    <STATION areacode="桃园县" code="58965"/>
+    <STATION areacode="台中县" code="59155"/>
+    <STATION areacode="嘉义县" code="59354"/>
+    <STATION areacode="台东县" code="59562"/>
+    <STATION areacode="花莲县" code="59362"/>
+  </STATION>
+  <STATION areacode="广西省" code="">
+    <STATION areacode="南宁市" code="59431">
+      <STATION areacode="邕宁区" code="59432"/>
+      <STATION areacode="武鸣县" code="59237"/>
+      <STATION areacode="隆安县" code="59229"/>
+      <STATION areacode="马山县" code="59230"/>
+      <STATION areacode="上林县" code="59235"/>
+      <STATION areacode="宾阳县" code="59238"/>
+      <STATION areacode="横县" code="59441"/>
+    </STATION>
+    <STATION areacode="柳州市" code="59046">
+      <STATION areacode="柳江县" code="59047"/>
+      <STATION areacode="柳城县" code="59041"/>
+      <STATION areacode="融安县" code="57947"/>
+      <STATION areacode="融水县" code="57948"/>
+      <STATION areacode="三江县" code="57941"/>
+    </STATION>
+    <STATION areacode="桂林市" code="57957">
+      <STATION areacode="阳朔县" code="59051"/>
+      <STATION areacode="临桂县" code="57954"/>
+      <STATION areacode="灵川县" code="57956"/>
+      <STATION areacode="全州县" code="57960"/>
+      <STATION areacode="平乐县" code="59053"/>
+      <STATION areacode="兴安县" code="57955"/>
+      <STATION areacode="灌阳县" code="57964"/>
+      <STATION areacode="荔浦县" code="59055"/>
+      <STATION areacode="资源县" code="57859"/>
+      <STATION areacode="永福县" code="57949"/>
+    </STATION>
+    <STATION areacode="梧州市" code="59265">
+      <STATION areacode="岑溪市" code="59454"/>
+      <STATION areacode="苍梧县" code="59266"/>
+      <STATION areacode="藤县" code="59256"/>
+      <STATION areacode="蒙山县" code="59058"/>
+    </STATION>
+    <STATION areacode="北海市" code="59644">
+      <STATION areacode="合浦县" code="59640"/>
+    </STATION>
+    <STATION areacode="防城港" code="59635">
+      <STATION areacode="东兴市" code="59626"/>
+      <STATION areacode="上思县" code="59429"/>
+    </STATION>
+    <STATION areacode="钦州市" code="59632">
+      <STATION areacode="灵山县" code="59446"/>
+      <STATION areacode="浦北县" code="59448"/>
+    </STATION>
+    <STATION areacode="贵港市" code="59249">
+      <STATION areacode="平南县" code="59255"/>
+    </STATION>
+    <STATION areacode="玉林市" code="59453">
+      <STATION areacode="北流市" code="59451"/>
+      <STATION areacode="容县" code="59452"/>
+      <STATION areacode="陆川县" code="59457"/>
+      <STATION areacode="博白县" code="59449"/>
+    </STATION>
+    <STATION areacode="百色市" code="59211">
+      <STATION areacode="凌云县" code="59015"/>
+      <STATION areacode="平果县" code="59228"/>
+      <STATION areacode="西林县" code="59004"/>
+      <STATION areacode="乐业县" code="59012"/>
+      <STATION areacode="德保县" code="59215"/>
+      <STATION areacode="田林县" code="59017"/>
+      <STATION areacode="田阳县" code="59213"/>
+      <STATION areacode="靖西县" code="59218"/>
+      <STATION areacode="田东县" code="59224"/>
+      <STATION areacode="那坡县" code="59209"/>
+      <STATION areacode="隆林县" code="59001"/>
+    </STATION>
+    <STATION areacode="贺州市" code="59064">
+      <STATION areacode="钟山县" code="59064"/>
+      <STATION areacode="昭平县" code="59059"/>
+      <STATION areacode="富川县" code="59061"/>
+    </STATION>
+    <STATION areacode="河池市" code="59023">
+      <STATION areacode="天峨县" code="57927"/>
+      <STATION areacode="凤山县" code="59021"/>
+      <STATION areacode="南丹县" code="59022"/>
+      <STATION areacode="东兰县" code="59025"/>
+      <STATION areacode="都安县" code="59037"/>
+      <STATION areacode="罗城仫县" code="59033"/>
+      <STATION areacode="巴马县" code="59027"/>
+      <STATION areacode="环江县" code="59031"/>
+    </STATION>
+    <STATION areacode="来宾市" code="59242">
+      <STATION areacode="象州县" code="59241"/>
+      <STATION areacode="武宣县" code="59246"/>
+      <STATION areacode="忻城县" code="59038"/>
+      <STATION areacode="金秀县" code="59057"/>
+    </STATION>
+    <STATION areacode="崇左市" code="59425">
+      <STATION areacode="宁明县" code="59427"/>
+      <STATION areacode="扶绥县" code="59426"/>
+      <STATION areacode="龙州县" code="59417"/>
+      <STATION areacode="大新县" code="59421"/>
+      <STATION areacode="天等县" code="59227"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="海南省" code="">
+    <STATION areacode="海口市" code="59758"/>
+    <STATION areacode="三亚市" code="59948"/>
+    <STATION areacode="琼海市" code="59855"/>
+    <STATION areacode="文昌市" code="59856"/>
+    <STATION areacode="万宁市" code="59951"/>
+    <STATION areacode="东方市" code="59838"/>
+    <STATION areacode="定安县" code="59851"/>
+    <STATION areacode="屯昌县" code="59854"/>
+    <STATION areacode="澄迈县" code="59843"/>
+    <STATION areacode="临高县" code="59842"/>
+    <STATION areacode="白沙县" code="59848"/>
+    <STATION areacode="昌江县" code="59847"/>
+    <STATION areacode="乐东县" code="59940"/>
+    <STATION areacode="陵水县" code="59954"/>
+    <STATION areacode="保亭县" code="59945"/>
+    <STATION areacode="琼中县" code="59849"/>
+  </STATION>
+  <STATION areacode="广东省" code="">
+    <STATION areacode="广州市" code="59287">
+      <STATION areacode="番禹区" code="59481"/>
+      <STATION areacode="花都区" code="59284"/>
+      <STATION areacode="增城市" code="59294"/>
+      <STATION areacode="从化市" code="59285"/>
+    </STATION>
+    <STATION areacode="深圳市" code="59493"/>
+    <STATION areacode="珠海市" code="59488">
+      <STATION areacode="斗门区" code="59487"/>
+    </STATION>
+    <STATION areacode="汕头市" code="59316">
+      <STATION areacode="潮阳区" code="59318"/>
+      <STATION areacode="澄海区" code="59319"/>
+      <STATION areacode="南澳县" code="59324"/>
+    </STATION>
+    <STATION areacode="韶关市" code="59082">
+      <STATION areacode="乐昌市" code="57988"/>
+      <STATION areacode="南雄市" code="57996"/>
+      <STATION areacode="始兴县" code="59090"/>
+      <STATION areacode="仁化县" code="57989"/>
+      <STATION areacode="翁源县" code="59094"/>
+      <STATION areacode="新丰县" code="59097"/>
+      <STATION areacode="乳源县" code="59081"/>
+    </STATION>
+    <STATION areacode="佛山市" code="59288">
+      <STATION areacode="南海区" code="59288"/>
+      <STATION areacode="顺德区" code="59480"/>
+      <STATION areacode="三水区" code="59279"/>
+    </STATION>
+    <STATION areacode="江门市" code="59478">
+      <STATION areacode="新会区" code="59476"/>
+      <STATION areacode="台山市" code="59478"/>
+      <STATION areacode="开平市" code="59475"/>
+      <STATION areacode="鹤山市" code="59473"/>
+      <STATION areacode="恩平市" code="59477"/>
+    </STATION>
+    <STATION areacode="湛江市" code="59658">
+      <STATION areacode="廉江市" code="59654"/>
+      <STATION areacode="雷州市" code="59750"/>
+      <STATION areacode="吴川市" code="59656"/>
+      <STATION areacode="徐闻县" code="59754"/>
+    </STATION>
+    <STATION areacode="茂名市" code="59659">
+      <STATION areacode="高州市" code="59653"/>
+      <STATION areacode="化州市" code="59655"/>
+      <STATION areacode="信宜市" code="59456"/>
+      <STATION areacode="电白县" code="59664"/>
+    </STATION>
+    <STATION areacode="肇庆市" code="59278">
+      <STATION areacode="高要市" code="59278"/>
+      <STATION areacode="四会市" code="59276"/>
+      <STATION areacode="广宁县" code="59271"/>
+      <STATION areacode="怀集县" code="59270"/>
+      <STATION areacode="封开县" code="59264"/>
+      <STATION areacode="德庆县" code="59269"/>
+    </STATION>
+    <STATION areacode="惠州市" code="59298">
+      <STATION areacode="惠阳区" code="59298"/>
+      <STATION areacode="博罗县" code="59297"/>
+      <STATION areacode="惠东县" code="59492"/>
+      <STATION areacode="龙门县" code="59290"/>
+    </STATION>
+    <STATION areacode="梅州市" code="59117">
+      <STATION areacode="兴宁市" code="59109"/>
+      <STATION areacode="梅县" code="59117"/>
+      <STATION areacode="大埔县" code="59116"/>
+      <STATION areacode="丰顺县" code="59310"/>
+      <STATION areacode="五华县" code="59303"/>
+      <STATION areacode="平远县" code="59106"/>
+      <STATION areacode="蕉岭县" code="59114"/>
+    </STATION>
+    <STATION areacode="汕尾市" code="59501">
+      <STATION areacode="陆丰市" code="59502"/>
+      <STATION areacode="海丰县" code="59500"/>
+    </STATION>
+    <STATION areacode="河源市" code="59293">
+      <STATION areacode="紫金县" code="59304"/>
+      <STATION areacode="龙川县" code="59107"/>
+      <STATION areacode="连平县" code="59096"/>
+      <STATION areacode="和平县" code="59099"/>
+    </STATION>
+    <STATION areacode="阳江市" code="59663">
+      <STATION areacode="阳春市" code="59469"/>
+    </STATION>
+    <STATION areacode="清远市" code="59280">
+      <STATION areacode="英德市" code="59088"/>
+      <STATION areacode="连州市" code="59072"/>
+      <STATION areacode="佛冈县" code="59087"/>
+      <STATION areacode="阳山县" code="59075"/>
+      <STATION areacode="连山县" code="59074"/>
+      <STATION areacode="连南县" code="59071"/>
+    </STATION>
+    <STATION areacode="东莞市" code="59289"/>
+    <STATION areacode="中山市" code="59485"/>
+    <STATION areacode="潮州市" code="59312">
+      <STATION areacode="饶平县" code="59313"/>
+    </STATION>
+    <STATION areacode="揭阳市" code="59315">
+      <STATION areacode="普宁市" code="59314"/>
+      <STATION areacode="揭西县" code="59306"/>
+      <STATION areacode="惠来县" code="59317"/>
+    </STATION>
+    <STATION areacode="云浮市" code="59471">
+      <STATION areacode="罗定市" code="59462"/>
+      <STATION areacode="新兴县" code="59470"/>
+      <STATION areacode="郁南县" code="59268"/>
+    </STATION>
+  </STATION>
+  <STATION areacode="香港" code="45005">
+    <STATION areacode="香港" code="45005"/>
+  </STATION>
+  <STATION areacode="澳门" code="45011">
+    <STATION areacode="澳门" code="45011"/>
+  </STATION>
+  <STATION areacode="世界" code="">
+    <STATION areacode="东京" code="47662"/>
+    <STATION areacode="吉隆坡" code="48647"/>
+    <STATION areacode="柏林" code="10385"/>
+    <STATION areacode="罗马" code="16242"/>
+    <STATION areacode="旧金山" code="72494"/>
+    <STATION areacode="多伦多" code="71624"/>
+    <STATION areacode="曼谷" code="48455"/>
+    <STATION areacode="悉尼" code="94767"/>
+    <STATION areacode="北京" code="54511"/>
+    <STATION areacode="卡拉奇" code="41780"/>
+    <STATION areacode="开罗" code="62366"/>
+    <STATION areacode="莫斯科" code="27612"/>
+    <STATION areacode="法兰克福" code="10637"/>
+    <STATION areacode="巴黎" code="07149"/>
+    <STATION areacode="伦敦" code="03772"/>
+    <STATION areacode="纽约" code="72503"/>
+    <STATION areacode="马尼拉" code="98429"/>
+    <STATION areacode="新加坡" code="48698"/>
+    <STATION areacode="德黑兰" code="40754"/>
+    <STATION areacode="雅典" code="16716"/>
+    <STATION areacode="芝加哥" code="72530"/>
+  </STATION>
+</DATAPACKET>

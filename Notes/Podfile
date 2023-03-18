@@ -1,0 +1,30 @@
+#source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '9.0'
+target 'Notes' do
+  use_frameworks!
+  pod 'Masonry'
+  pod 'AFNetworking'
+  pod 'TZImagePickerController'
+  pod 'Charts'
+  pod 'XHLaunchAd'
+  pod 'SDWebImage'
+end
+
+
+# cd ~/.cocoapods/repos
+# pod repo remove master
+# git clone https://github.com/CocoaPods/Specs.git master
+
+
+#pod repo update --verbose
+#pod repo remove trunk
+#pod update --verbose --no-repo-update
+
+
+
+#pod --version  查看版本
+#sudo gem install cocoapods 更新版本
+#pod repo update --verbose 更新仓库
+
+
+

@@ -1,0 +1,31 @@
+//
+//  PrefixHeader.pch
+//  Notes
+//
+//  Created by 龙兴国 on 2019/9/10.
+//  Copyright © 2019 龙兴国. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+//三方
+#import <Masonry/Masonry.h>
+#import <SDWebImage/SDWebImage.h>
+//配置
+#import "LXGEnvironmentConstants.h"
+//组件
+#import "LXGPublicTool.h"//公共
+#import "LXGColorTool.h"//颜色
+#import "LXGWeakTimerTool.h"//定时器
+#import "LXGDecimalTool.h"//科学计数法
+#import "LXGQrCodeTool.h"//二维码
+#import "LXGDateTool.h"//时间
+#import "LXGAudioRecorderTool.h"//录音
+#import "LXGAudioPlayerTool.h"//播放本地音频 不支持网络
+#import "LXGAudioAVPlayerTool.h"//播放网络和本地音频
+#import "LXGPhotoTool.h"//图片选择
+#import "LXGFontTool.h"
+#import "LXGStringTool.h"
+
+#import "NSLayoutConstraint+LXG.h"
+#endif /* PrefixHeader_pch */
