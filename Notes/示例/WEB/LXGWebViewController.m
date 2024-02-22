@@ -35,7 +35,7 @@
 }
 - (void)viewDidLoad {
     [super viewDidLoad];
-    self.URL = @"http://weizhan.fzqxj.cn:800/pacy";
+    self.URL = @"http://";
     [self creatUI];
     [self detectionUrl];
 }
