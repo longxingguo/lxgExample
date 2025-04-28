@@ -30,8 +30,7 @@
     //[self checkDic];
    // [self checkUUID];
 //    [self checkFont];
-    [self GHPocmp];
-//
+//    [self GHPocmp];
 //    [self getjson];
     return YES;
 }

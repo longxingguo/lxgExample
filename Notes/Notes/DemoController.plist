@@ -4,6 +4,12 @@
 <array>
 	<dict>
 		<key>c</key>
+		<string>DYViewController</string>
+		<key>t</key>
+		<string>抖音</string>
+	</dict>
+	<dict>
+		<key>c</key>
 		<string>LXGRollingViewController</string>
 		<key>t</key>
 		<string>上下滚动</string>

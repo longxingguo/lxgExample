@@ -18,6 +18,7 @@
 @implementation ViewController
 - (void)viewDidLoad {
     [super viewDidLoad];
+    self.view.backgroundColor = [UIColor redColor];
     [self.view addSubview:self.demoTableView];
     //YYFPSLabel * fps = [[YYFPSLabel alloc]initWithFrame:CGRectMake(10, 200, 100, 20)];
     //[[UIApplication sharedApplication].keyWindow addSubview:fps];

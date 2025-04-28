@@ -13,6 +13,7 @@
 @end
 @implementation LXGRollingViewController
 - (void)viewDidLoad {
+    self.navigationItem.title=@"滚动";
     [super viewDidLoad];
     self.cycleScrollView                  = [[LXGRollingView alloc] initWithFrame:CGRectMake(20, 100, [UIScreen mainScreen].bounds.size.width - 40, 40)];
     self.cycleScrollView.time             = 2;

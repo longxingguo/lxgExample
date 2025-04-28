@@ -17,6 +17,10 @@
     if ([self respondsToSelector:@selector(interactivePopGestureRecognizer)]) {
         self.interactivePopGestureRecognizer.delegate = (id)weakSelf;
     }
+    //iOS7之后由于navigationBar.translucent默认是YES，坐标默认在（0，0）点 ；当不透明的时候（设为NO），零点坐标在（0，64）；
+    //如果你想设成透明的，而且还要零点从（0，64）开始，那就添加：self.edgeForExtendedLayout = UIRectEdgeNone;
+    //如果你想设成不透明的，而且还要坐标从（0，0）开始，添加 self.extendedLayoutIncludesOpaqueBars = YES;
+    self.navigationBar.translucent = YES;
 }
 - (void)pushViewController:(UIViewController *)viewController animated:(BOOL)animated {
     if (self.viewControllers.count > 0) {

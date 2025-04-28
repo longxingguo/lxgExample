@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 51;
+	objectVersion = 54;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -99,6 +99,7 @@
 		538321382331C2E600D23B01 /* LXGImageButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 538321372331C2E600D23B01 /* LXGImageButton.m */; };
 		5383214B2333212500D23B01 /* LXGChartsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5383214A2333212500D23B01 /* LXGChartsViewController.m */; };
 		538664F1244943C200A5A163 /* LXGGifTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 538664F0244943C200A5A163 /* LXGGifTool.m */; };
+		53959F7F2BA19ADA0089A1D5 /* DYViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 53959F7E2BA19ADA0089A1D5 /* DYViewController.m */; };
 		53C3793924E679A600991A65 /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53C3793824E679A600991A65 /* ColorViewController.swift */; };
 		53C3793D24E689D400991A65 /* 2008101424_060.png in Resources */ = {isa = PBXBuildFile; fileRef = 53C3793C24E689D400991A65 /* 2008101424_060.png */; };
 		53C3794424EA7F9200991A65 /* 2008171642_000.png in Resources */ = {isa = PBXBuildFile; fileRef = 53C3794324EA7F9200991A65 /* 2008171642_000.png */; };
@@ -288,6 +289,8 @@
 		5383214A2333212500D23B01 /* LXGChartsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LXGChartsViewController.m; sourceTree = "<group>"; };
 		538664EF244943C200A5A163 /* LXGGifTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LXGGifTool.h; sourceTree = "<group>"; };
 		538664F0244943C200A5A163 /* LXGGifTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LXGGifTool.m; sourceTree = "<group>"; };
+		53959F7D2BA19ADA0089A1D5 /* DYViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DYViewController.h; sourceTree = "<group>"; };
+		53959F7E2BA19ADA0089A1D5 /* DYViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DYViewController.m; sourceTree = "<group>"; };
 		53C3793824E679A600991A65 /* ColorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorViewController.swift; sourceTree = "<group>"; };
 		53C3793C24E689D400991A65 /* 2008101424_060.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2008101424_060.png; sourceTree = "<group>"; };
 		53C3794324EA7F9200991A65 /* 2008171642_000.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2008171642_000.png; sourceTree = "<group>"; };
@@ -703,6 +706,7 @@
 		5383211C232A3E4B00D23B01 /* 示例 */ = {
 			isa = PBXGroup;
 			children = (
+				53959F7C2BA19A9B0089A1D5 /* 抖音 */,
 				5332B0D725610AE80075638B /* XML */,
 				5356065024B71F980076103B /* 联动 */,
 				53E35923238BAB87002D9120 /* 钥匙串 */,
@@ -743,6 +747,15 @@
 				53C3795724EE6F1C00991A65 /* LXGBarView.m */,
 			);
 			path = "Charts使用";
+			sourceTree = "<group>";
+		};
+		53959F7C2BA19A9B0089A1D5 /* 抖音 */ = {
+			isa = PBXGroup;
+			children = (
+				53959F7D2BA19ADA0089A1D5 /* DYViewController.h */,
+				53959F7E2BA19ADA0089A1D5 /* DYViewController.m */,
+			);
+			path = "抖音";
 			sourceTree = "<group>";
 		};
 		53E35923238BAB87002D9120 /* 钥匙串 */ = {
@@ -953,6 +966,7 @@
 				538320702327789300D23B01 /* LXGWeakTimerTool.m in Sources */,
 				5383205823273CCA00D23B01 /* LXGPublicTool.m in Sources */,
 				53832129232A417C00D23B01 /* VVSpringCollectionViewFlowLayout.m in Sources */,
+				53959F7F2BA19ADA0089A1D5 /* DYViewController.m in Sources */,
 				53DB55C12361AD7D00B83E3C /* LXGXAxisRenderer.swift in Sources */,
 				5383203E2327383B00D23B01 /* AppDelegate.m in Sources */,
 				5345B767235870FC004E6627 /* LXGTableView.m in Sources */,
@@ -1141,10 +1155,14 @@
 				PRODUCT_BUNDLE_IDENTIFIER = huawang.Notes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "示例/Charts使用/Notes-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -1173,9 +1191,13 @@
 				PRODUCT_BUNDLE_IDENTIFIER = huawang.Notes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_OBJC_BRIDGING_HEADER = "示例/Charts使用/Notes-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
